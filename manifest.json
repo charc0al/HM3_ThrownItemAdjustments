@@ -1,9 +1,28 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"updateCheck": "https://github.com/charc0al/HM3_GrenadeImprovements/releases/latest/download/updates.json",
+	"id": "Charc0al.ThrownItemAdjustments",
+	"name": "Thrown Item Adjustments",
+	"description": "Removes lock-on throw from grenades, proximity explosives, and a few other items. Remote and briefcase options as well.",
+	"authors": ["Charc0al"],
+	"frameworkVersion": "2.33.26",
+	"contentFolders": ["content/main"],
+	"options": [
+		{
+			"name": "Remote Explosives",
+			"tooltip": "Turn off lock-on for throwing remote explosives",
+			"group": "Other",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/remote"]
+		},
+		{
+			"name": "Briefcases - faster throw",
+			"tooltip": "Throw briefcases at the same speed as other thrown items",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/briefcases"]
+		}
+	]
 }

@@ -1,0 +1,12 @@
+{
+	"1082607a-6bb0-49c9-ab77-e631f7a603f3": {
+		"DetectShots": true,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 200,
+		"RagdollImpactForceGlobal": 0,
+		"RagdollImpactUpkick": 100,
+		"RagdollImpactUpkickGlobal": 0,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 50
+	}
+}
