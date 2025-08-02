@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"updateCheck": "https://github.com/charc0al/HM3_GrenadeImprovements/releases/latest/download/updates.json",
 	"id": "Charc0al.ThrownItemAdjustments",
 	"name": "Thrown Item Adjustments",
