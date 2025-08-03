@@ -138,38 +138,7 @@
 	"2880296a-1014-4147-828a-80d82d4404fe": {
 		"ThrowType": "THROW_NORMAL"
 	},
-	"a6706101-3aaf-4797-a0f8-a5b6aac9cdfe": {
-		"CommonName": "(Melee) Snow Ball",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"3f9ed406-8de0-4466-b393-38a7f905d859": {
-		"CommonName": "Melee_Llama_WineBottle_BlackLabel_Malbec",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"40766e9d-eb46-474e-b5ce-927e3e70f0c6": {
-		"CommonName": "Melee_Llama_WineBottle_BlueLabel_PinotNoir",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"299eae90-4744-4557-b30b-71382cba2839": {
-		"CommonName": "Melee_Llama_WineBottle_RedLabel_Cabernet",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"2d960bf0-217c-400d-a1ee-f721e18f2926": {
-		"CommonName": "Melee_Llama_WineBottle_WhiteLabel_Vintage",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"ac83255f-4419-4bca-a016-52f1326b57c5": {
-		"CommonName": "Melee_VHS",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"eadaeffd-c523-4942-b3e8-c475b68cc818": {
-		"CommonName": "Melee_WineBottle",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
-	"c664eb1a-41d8-4d0a-a393-d5f66f055e5e": {
-		"CommonName": "Squeaky Toy Kiwi",
-		"ThrowType": "THROW_KNOCKDOWN_LIGHT"
-	},
+	
 	"903d273c-c750-441d-916a-31557fea3382": {
 		"CommonName": "Melee_Banana",
 		"ThrowVelocity": 25

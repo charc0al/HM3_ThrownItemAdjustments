@@ -1,23 +1,20 @@
 {
 	"1082607a-6bb0-49c9-ab77-e631f7a603f3": {
 		"CommonName": "(Container) Arctic Tool Box",
-		"OverrideItemThrowRotation": false,
-		"ItemImpactForce": 40,
-		"ItemImpactUpkick": 50,
-		"RagdollImpactForce": 300,
-		"RagdollImpactUpkick": 200,
-		"RagdollImpactUpkickGlobal": 0,
+		"ItemImpactForce": 50,
+		"ItemImpactUpkick": 75,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 50
+		"ThrowVelocity": 100
 	},
 	"c1238ece-fcbf-4ab9-bcfb-9371d5e3b576": {
 		"CommonName": "(Container) ICA Briefcase Classic",
 		"ItemImpactForce": 0,
 		"ItemImpactUpkick": 0,
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
-		"RagdollImpactUpkickGlobal": 0,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 100
 	}
 }

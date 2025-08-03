@@ -1,0 +1,45 @@
+{
+	"1082607a-6bb0-49c9-ab77-e631f7a603f3": {
+		"CommonName": "(Container) Arctic Tool Box",
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"c1238ece-fcbf-4ab9-bcfb-9371d5e3b576": {
+		"CommonName": "(Container) ICA Briefcase Classic",
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 100
+	},
+	"7ef0c49f-a5dc-421e-abe9-c94fe17ea0f9": {
+		"CommonName": "(S3) Container_Briefcase_ChineseSuitcase",
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 100
+	},
+	"7185b682-6c9d-4684-9b5d-d25c336f5cbd": {
+		"CommonName": "(S3) Container_Briefcase_Hunting",
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 75
+	}
+}

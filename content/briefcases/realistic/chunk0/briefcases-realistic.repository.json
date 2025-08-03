@@ -1,0 +1,18 @@
+{
+	"1082607a-6bb0-49c9-ab77-e631f7a603f3": {
+		"CommonName": "(Container) Arctic Tool Box",
+		"RagdollImpactForce": 200,
+		"RagdollImpactUpkick": 20,
+		"RagdollImpactUpkickGlobal": 0,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 75
+	},
+	"c1238ece-fcbf-4ab9-bcfb-9371d5e3b576": {
+		"CommonName": "(Container) ICA Briefcase Classic",
+		"RagdollImpactForce": 200,
+		"RagdollImpactUpkick": 20,
+		"RagdollImpactUpkickGlobal": 0,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 75
+	}
+}

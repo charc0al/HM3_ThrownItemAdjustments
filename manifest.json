@@ -10,26 +10,62 @@
 	"contentFolders": ["content/main"],
 	"options": [
 		{
-			"name": "Remote Explosives",
+			"name": "No Lock-on | Grenades & Proximity Items",
+			"tooltip": "Turn off lock-on for throwing grenades and proximity explosives / items, including things like the chloroform flask and the durian.",
+			"group": "main",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/main"]
+		},
+		{
+			"name": "No Lock-on | Remote Explosives & Items",
 			"tooltip": "Turn off lock-on for throwing remote explosives",
-			"group": "Other",
+			"group": "main",
 			"type": "checkbox",
 			"enabledByDefault": true,
 			"contentFolders": ["content/remote"]
 		},
 		{
-			"name": "Briefcases - Faster throw",
-			"tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/briefcases"]
+			"name": "No changes",
+			"tooltip": "No changes to briefcase throw.",
+			"group": "Briefcase Throw",
+			"type": "select"
 		},
 		{
-			"name": "Briefcases - Extreme Knockback",
-			"tooltip": "Throw briefcases at the same speed as other thrown items",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/briefcases"]
+			"name": "Faster throw - Human strength",
+			"tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"contentFolders": ["content/briefcases/realistic"]
+		},
+		{
+			"name": "Faster throw - 47 strength",
+			"tooltip": "Throw briefcases at world class assassin strength. Normal item throw speed, with an amount of knockback that feels like it belongs in vanilla WoA.",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"enabledByDefault": true,
+			"contentFolders": ["content/briefcases/47"]
+		},
+		{
+			"name": "Faster throw - Extreme strength",
+			"tooltip": "Hits just hard enough to send NPCs over Whittleton Creek fences.",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"contentFolders": ["content/briefcases/extreme"]
+		},
+		{
+			"name": "Faster throw - Actually Ridiculous strength",
+			"tooltip": "Throw briefcases at superhuman speed and send NPCs flying.",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"contentFolders": ["content/briefcases/ridiculous"]
+		},
+		{
+			"name": "Faster throw - TO THE MOON",
+			"tooltip": "No one in their right mind would choose this option.",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"contentFolders": ["content/briefcases/moon"]
 		},
 		{
 			"name": "Throw | Dot Reticle",
@@ -47,6 +83,13 @@
 			"type": "checkbox",
 			"image": "smf/throwarc.png",
 			"contentFolders": ["content/throw_arc"]
+		},
+		{
+			"name": "ICA Homing Banana",
+			"tooltip": "ICA Homing Banana",
+			"group": "Bananer",
+			"type": "checkbox",
+			"contentFolders": ["content/banana"]
 		}
 	]
 }
