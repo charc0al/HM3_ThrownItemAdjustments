@@ -1,0 +1,11 @@
+{
+	"1082607a-6bb0-49c9-ab77-e631f7a603f3": {
+		"CommonName": "(Container) Arctic Tool Box",
+		"DetectShots": true,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 50
+	}
+}

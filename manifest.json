@@ -18,11 +18,35 @@
 			"contentFolders": ["content/remote"]
 		},
 		{
-			"name": "Briefcases - faster throw",
+			"name": "Briefcases - Faster throw",
+			"tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/briefcases"]
+		},
+		{
+			"name": "Briefcases - Extreme Knockback",
 			"tooltip": "Throw briefcases at the same speed as other thrown items",
 			"group": "Other",
 			"type": "checkbox",
 			"contentFolders": ["content/briefcases"]
+		},
+		{
+			"name": "Throw | Dot Reticle",
+			"tooltip": "Changes the thrown object reticle into a dot",
+			"group": "Throw",
+			"type": "checkbox",
+			"image": "smf/throw.png",
+			"enabledByDefault": true,
+			"contentFolders": ["content/throw_target"]
+		},
+		{
+			"name": "Throw | Hide Arc",
+			"tooltip": "Hides the 3D throw arc",
+			"group": "Throw",
+			"type": "checkbox",
+			"image": "smf/throwarc.png",
+			"contentFolders": ["content/throw_arc"]
 		}
 	]
 }
