@@ -116,13 +116,13 @@
 	},
 	"3e7af76c-d4c7-48f3-8e86-b1cea07eef55": {
 		"CommonName": "(Container) ICA Briefcase Purple",
-		"ItemImpactForce": 0,
-		"ItemImpactUpkick": 50,
+		"ItemImpactForce": 200,
+		"ItemImpactUpkick": 30,
 		"OverrideItemThrowRotation": false,
 		"RagdollImpactForce": 1500,
 		"RagdollImpactUpkick": 1000,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 150
+		"ThrowVelocity": 50
 	},
 	"adf6a54d-eb23-44d1-94c4-34d3195e368a": {
 		"CommonName": "(Container) ICA Briefcase Stadia",
