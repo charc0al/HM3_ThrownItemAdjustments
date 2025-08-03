@@ -32,6 +32,14 @@
 			"type": "select"
 		},
 		{
+			"name": "Faster throw - Charc0al's Recommendation",
+			"tooltip": "Most briefcases - 47 strength.\nCommon (leather, military) briefcases human strength.\nEach of the more ridiculous strengths have one novelty briefcase, I'm sure you can figure out which is which :)",
+			"group": "Briefcase Throw",
+			"type": "select",
+			"enabledByDefault": true,
+			"contentFolders": ["content/briefcases/charc0al"]
+		},
+		{
 			"name": "Faster throw - Human strength",
 			"tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
 			"group": "Briefcase Throw",
@@ -43,7 +51,6 @@
 			"tooltip": "Throw briefcases at world class assassin strength. Normal item throw speed, with an amount of knockback that feels like it belongs in vanilla WoA.",
 			"group": "Briefcase Throw",
 			"type": "select",
-			"enabledByDefault": true,
 			"contentFolders": ["content/briefcases/47"]
 		},
 		{

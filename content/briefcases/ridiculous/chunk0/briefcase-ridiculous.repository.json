@@ -31,7 +31,206 @@
 	},
 	"7185b682-6c9d-4684-9b5d-d25c336f5cbd": {
 		"CommonName": "(S3) Container_Briefcase_Hunting",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
 		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"8e2ccfc2-67d9-4ac1-87db-76e7535cd18d": {
+		"CommonName": "(Container) Briefcase S1 Traveler",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"7b71cf70-ce68-4ad2-b29a-3b2b3bacf11c": {
+		"CommonName": "(Container) Briefcase S3 Traveler",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"763217e5-8e47-4ae1-88a1-88f13b0f73eb": {
+		"CommonName": "(Container) DJ Suitcase Tomorrowland",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"d5f7e973-fbd8-477e-a34e-37985bedd831": {
+		"CommonName": "(Container) Gold Briefcase",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"15e6200e-2000-4966-9771-923ab13c6a1c": {
+		"CommonName": "(Container) ICA Briefcase",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"6a86aea4-77db-4b54-a23a-bb90a398a157": {
+		"CommonName": "(Container) ICA Briefcase Birth",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"d27e9671-c2cb-4d32-b64f-c401140a4de2": {
+		"CommonName": "(Container) ICA Briefcase Death",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"8cb03c05-feba-444a-9ef6-fcb918620e43": {
+		"CommonName": "(Container) ICA Briefcase Deluxe",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"411cfaca-502b-41e3-9a97-311f6644d5a1": {
+		"CommonName": "(Container) ICA Briefcase Life",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"d5d55894-a37a-4a39-b192-7c09b040c73e": {
+		"CommonName": "(Container) ICA Briefcase MK III",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"3e7af76c-d4c7-48f3-8e86-b1cea07eef55": {
+		"CommonName": "(Container) ICA Briefcase Purple",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"adf6a54d-eb23-44d1-94c4-34d3195e368a": {
+		"CommonName": "(Container) ICA Briefcase Stadia",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"0673481e-48ed-4c4a-bd83-53b6724b79fb": {
+		"CommonName": "(Container) ICA Briefcase Wide",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"97152c6c-4410-45ab-9e27-50150ce05f9b": {
+		"CommonName": "(Container) Leather Briefcase",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"83e194ed-a937-4680-8eb0-7a939bec1df8": {
+		"CommonName": "(Container) Military Briefcase",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"25ecb0e7-a297-43e2-a360-6ca085b73a75": {
+		"CommonName": "(Container) Small Leather Bag",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"d21f52a2-988b-4e97-8f47-9d1c6b341adc": {
+		"CommonName": "(Container) Tool Box",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"1a760328-9f72-4ad8-80f8-e642d045146b": {
+		"CommonName": "(S3) Container_Briefcase_Jager7",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"4c2dfff7-9bb4-4cf0-b749-3916175912b8": {
+		"CommonName": "(S3) Container_Briefcase_Sieger_300",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 100,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"d299f56d-120a-4395-adb7-98310ee725d4": {
+		"CommonName": "Briefcase HM3 Traveler",
 		"ItemImpactForce": 0,
 		"ItemImpactUpkick": 100,
 		"OverrideItemThrowRotation": false,

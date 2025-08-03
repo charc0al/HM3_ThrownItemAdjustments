@@ -17,11 +17,14 @@
 	},
 	"7ef0c49f-a5dc-421e-abe9-c94fe17ea0f9": {
 		"CommonName": "(S3) Container_Briefcase_ChineseSuitcase",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
-		"RagdollImpactUpkickGlobal": 0,
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 150
 	},
 	"7185b682-6c9d-4684-9b5d-d25c336f5cbd": {
 		"CommonName": "(S3) Container_Briefcase_Hunting",
@@ -113,11 +116,13 @@
 	},
 	"3e7af76c-d4c7-48f3-8e86-b1cea07eef55": {
 		"CommonName": "(Container) ICA Briefcase Purple",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
-		"RagdollImpactUpkickGlobal": 0,
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 50,
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 1500,
+		"RagdollImpactUpkick": 1000,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 150
 	},
 	"adf6a54d-eb23-44d1-94c4-34d3195e368a": {
 		"CommonName": "(Container) ICA Briefcase Stadia",
@@ -137,24 +142,24 @@
 	},
 	"97152c6c-4410-45ab-9e27-50150ce05f9b": {
 		"CommonName": "(Container) Leather Briefcase",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
+		"RagdollImpactForce": 200,
+		"RagdollImpactUpkick": 20,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 75
 	},
 	"83e194ed-a937-4680-8eb0-7a939bec1df8": {
 		"CommonName": "(Container) Military Briefcase",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
+		"RagdollImpactForce": 200,
+		"RagdollImpactUpkick": 20,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 75
 	},
 	"25ecb0e7-a297-43e2-a360-6ca085b73a75": {
 		"CommonName": "(Container) Small Leather Bag",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
+		"RagdollImpactForce": 200,
+		"RagdollImpactUpkick": 20,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 75
@@ -177,11 +182,12 @@
 	},
 	"4c2dfff7-9bb4-4cf0-b749-3916175912b8": {
 		"CommonName": "(S3) Container_Briefcase_Sieger_300",
-		"RagdollImpactForce": 250,
-		"RagdollImpactUpkick": 100,
-		"RagdollImpactUpkickGlobal": 0,
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 0,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 100
 	},
 	"d299f56d-120a-4395-adb7-98310ee725d4": {
 		"CommonName": "Briefcase HM3 Traveler",
