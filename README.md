@@ -6,4 +6,4 @@ Removes lock-on throw from grenades, proximity explosives, and a few other items
 
 ---
 
-`Charc0al.ThrownItemAdjustments` v1.0.0, by Charc0al. This README was automatically generated from the mod's manifest.
+`Charc0al.ThrownItemAdjustments` v1.1.0, by Charc0al. This README was automatically generated from the mod's manifest.
