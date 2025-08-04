@@ -3,8 +3,8 @@
 		"CommonName": "(Container) Arctic Tool Box",
 		"ItemImpactForce": 50,
 		"ItemImpactUpkick": 75,
-		"RagdollImpactForce": 300,
-		"RagdollImpactUpkick": 300,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 100
 	},

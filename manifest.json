@@ -33,10 +33,9 @@
 		},
 		{
 			"name": "Faster throw - Charc0al's Recommendation",
-			"tooltip": "Most briefcases - 47 strength.\nCommon (leather, military) briefcases human strength.\nEach of the more ridiculous strengths have one novelty briefcase, I'm sure you can figure out which is which :)",
+			"tooltip": "Most briefcases: 47 strength | Common (leather, military) briefcases: Human strength | Sieger 300 Briefcase: Extreme | Purple Briefcase: Ridiculous | Chinese Briefcase: TO THE MOON",
 			"group": "Briefcase Throw",
 			"type": "select",
-			"enabledByDefault": true,
 			"contentFolders": ["content/briefcases/charc0al"]
 		},
 		{
@@ -51,6 +50,7 @@
 			"tooltip": "Throw briefcases at world class assassin strength. Normal item throw speed, with an amount of knockback that feels like it belongs in vanilla WoA.",
 			"group": "Briefcase Throw",
 			"type": "select",
+			"enabledByDefault": true,
 			"contentFolders": ["content/briefcases/47"]
 		},
 		{
