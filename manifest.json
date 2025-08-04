@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "1.2.3",
-	"updateCheck": "https://github.com/charc0al/HM3_GrenadeImprovements/releases/latest/download/updates.json",
+	"updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
 	"id": "Charc0al.ThrownItemAdjustments",
 	"name": "Thrown Item Adjustments",
 	"description": "Removes lock-on throw from grenades, proximity explosives, and a few other items. Remote and briefcase options as well.",
