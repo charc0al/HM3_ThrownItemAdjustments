@@ -108,5 +108,302 @@
 	"d1f29c76-5751-4e06-b534-e6eb7522b128": {
 		"CommonName": "Melee_KronstadtAndroidArm!",
 		"RagdollImpactForce": 100
-	}
+	},
+	"004ecac9-6aee-4b30-a073-4399a94535d8": {
+        "CommonName": "Melee_Full_SodaCan!",
+		"RagdollImpactForce": 50
+    },
+    "0576a20c-581b-4705-8b9d-464e077d117e": {
+        "CommonName": "WetFloorSign!",
+        "RagdollImpactForce": 50
+    },
+    "0705964d-dab5-45b6-96ae-30cd4c2f0dec": {
+        "CommonName": "Melee_WoodenPaddle!",
+        "RagdollImpactForce": 180,
+        "RagdollImpactForceGlobal": 20
+    },
+    "09d66de2-c14c-4c5a-9b85-d1c7e9c2a3e1": {
+        "CommonName": "GL2 tool pristine crowbar!",
+        "RagdollImpactForce": 150
+    },
+    "0b97c464-7df0-421e-844f-df08ad563d7f": {
+        "CommonName": "Melee_WaterBottle!",
+        "RagdollImpactForce": 80
+    },
+    "0f901c2c-3bcc-42f8-abc0-1f9b81fcd72f": {
+        "CommonName": "Melee_CigarBox!",
+		"RagdollImpactForce": 50
+    },
+    "1050c8d3-43d6-4bcf-a5d3-0ca994121871": {
+        "CommonName": "Melee_VodkaBottle!",
+        "RagdollImpactForce": 80
+    },
+    "1e2bc40b-505a-4cc6-a09c-94470470985b": {
+        "CommonName": "Melee_BaseballBat!",
+		"RagdollImpactForce": 200
+    },
+    "22183fd3-d837-47c6-9c44-05637300af93": {
+        "CommonName": "Melee_Coconut!",
+        "RagdollImpactForce": 80
+    },
+    "299eae90-4744-4557-b30b-71382cba2839": {
+        "CommonName": "Melee_Llama_WineBottle_RedLabel_Cabernet!",
+        "RagdollImpactForce": 80
+    },
+    "2d960bf0-217c-400d-a1ee-f721e18f2926": {
+        "CommonName": "Melee_Llama_WineBottle_WhiteLabel_Vintage!",
+        "RagdollImpactForce": 80
+    },
+    "31f36818-623f-4c92-892f-d7b19bb325e1": {
+        "CommonName": "Melee_Bust_Hokkaido!",
+		"RagdollImpactForce": 150
+    },
+    "33c16292-7f60-4f0b-8ea0-bae80bc31d1a": {
+        "CommonName": "Melee_Shuriken_Bat_X!",
+        "ItemImpactForce": 60,
+        "RagdollImpactForce": 150
+    },
+    "3a359494-ee05-4fea-beac-8726233a55bf": {
+        "CommonName": "Melee_WhiskyBottle!",
+        "RagdollImpactForce": 80
+    },
+    "3c24c96a-557c-472a-9d71-1a235d7383a7": {
+        "CommonName": "Melee_Hammer!",
+		"RagdollImpactForce": 80
+    },
+    "3f9ed406-8de0-4466-b393-38a7f905d859": {
+        "CommonName": "Melee_Llama_WineBottle_BlackLabel_Malbec!",
+        "RagdollImpactForce": 80
+    },
+    "40766e9d-eb46-474e-b5ce-927e3e70f0c6": {
+        "CommonName": "Melee_Llama_WineBottle_BlueLabel_PinotNoir!",
+        "RagdollImpactForce": 80
+    },
+    "40e96ed0-7668-4d65-b88a-f44bfff5f537": {
+        "CommonName": "Melee_Khatavanga!",
+        "RagdollImpactForce": 80
+    },
+    "4292fe64-aac6-4bbe-be73-31671640172a": {
+        "CommonName": "Melee_GoldBar!",
+        "RagdollImpactForce": 150
+    },
+    "4404fc8d-ffc0-472d-a63a-6480be973e74": {
+        "CommonName": "(Tool) Crowbar Professional!",
+        "RagdollImpactForce": 150
+    },
+    "45c0ccfe-1ac3-4747-9571-fe7588fe6971": {
+        "CommonName": "QuestItem_Sugar!",
+        "RagdollImpactForce": 150
+    },
+    "494e74b2-f3c0-4c77-be15-8f22a6eed97b": {
+        "CommonName": "(Melee) handyman Wrench!",
+        "RagdollImpactForce": 80
+    },
+    "4b0def3b-7378-494d-b885-92c334f2f8cb": {
+        "CommonName": "Melee_Colombia_Gold_Idol!",
+        "RagdollImpactForce": 150
+    },
+    "4d2ecde8-79db-44b1-8f60-7a1a648f7d09": {
+        "CommonName": "GL2 tool rusty wrench!",
+        "RagdollImpactForce": 50
+    },
+    "4dee7cd6-f447-45af-a90e-c2e234386dc3": {
+        "CommonName": "Melee_ConcealableBaton!",
+        "RagdollImpactForce": 80
+    },
+    "4fad7437-59e9-4ca9-9b31-a6d97484216b": {
+        "CommonName": "(Melee) Small Violin!",
+        "RagdollImpactForce": 100
+    },
+    "4fbe2d58-5088-4155-805f-fe4c5789b8bb": {
+        "CommonName": "Melee_Full_SodaCan_Jester!",
+        "RagdollImpactForce": 80
+    },
+    "51f592f4-a9a6-47a7-8143-113bc57ebf45": {
+        "CommonName": "Melee_Holipot!",
+        "RagdollImpactForce": 100
+    },
+    "51f6ed96-4985-4d09-8218-e3b912d025b9": {
+        "CommonName": "Melee_BrandingIron!",
+        "RagdollImpactForce": 150
+    },
+    "5774f9ff-0ed3-44e0-8208-ec29eac070c1": {
+        "CommonName": "GL2 tool rusty crowbar!",
+        "RagdollImpactForce": 80
+    },
+    "58e6a677-34ab-4962-b6b7-1892c290019a": {
+        "CommonName": "GL2 tool pristine wrench!",
+        "RagdollImpactForce": 80
+    },
+    "5ad01c38-244a-4b75-94d6-624850d2dc92": {
+        "CommonName": "Melee_Spraycan!",
+        "RagdollImpactForce": 80
+    },
+    "5cc4d1ea-b4fa-4667-ba3a-b6e859f03059": {
+        "CommonName": "Melee_Brick!",
+        "RagdollImpactForce": 80
+    },
+    "683e2888-9e57-4ab8-a56e-38836585298d": {
+        "CommonName": "Melee_SnowGlobe_Gecko!",
+        "RagdollImpactForce": 50
+    },
+    "6b87c27d-0d73-4c63-b852-5a9c7a9ffb90": {
+        "CommonName": "(Melee) Feather Duster!"
+    },
+    "7268dbea-7a1c-47f5-b846-f0445404ec14": {
+        "CommonName": "Melee_Iron!",
+        "RagdollImpactForce": 150
+    },
+    "736132de-78f3-4366-b927-ed9a401dbe26": {
+        "CommonName": "(Tool) Crowbar Professional!",
+        "RagdollImpactForce": 200
+    },
+    "74b04d1f-8ac9-46a0-9a6c-8579cf03276f": {
+        "CommonName": "Melee_Didgeridoo!",
+        "RagdollImpactForce": 200
+    },
+    "7a324c30-b2aa-4c97-92da-cb651cad3d7d": {
+        "CommonName": "Melee_GoldBar!",
+        "RagdollImpactForce": 150
+    },
+    "7f89bf01-235b-4ac5-9154-3584ba311e24": {
+        "CommonName": "Melee_CognacBottle!",
+        "RagdollImpactForce": 80
+    },
+    "8431dd21-42ba-4da8-bfdb-6d870c9e1458": {
+        "CommonName": "Evergreen OilSpill Canister!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 30
+    },
+    "8e445d94-9294-4087-af0d-178ef1f8c8f7": {
+        "CommonName": "Melee_BaseballBat_Spooky!",
+        "RagdollImpactForce": 200
+    },
+    "8f6d512c-6c20-42c9-a58b-b7405247d46c": {
+        "CommonName": "Melee_Shaker!",
+        "RagdollImpactForce": 50
+    },
+    "9074303b-a253-4c6a-b1b0-43412622b521": {
+        "CommonName": "Melee_BaseballBat_Purple!",
+        "RagdollImpactForce": 150
+    },
+    "94c2b206-d011-4358-a6b3-c8a6042ab2c2": {
+        "CommonName": "Melee_Dugong_Torch!",
+        "RagdollImpactForce": 150
+    },
+    "97d74fa2-4832-4186-a447-c4b2e37d537a": {
+        "CommonName": "Melee_Bust!",
+        "RagdollImpactForce": 150
+    },
+    "9bf224c4-6f9b-45f3-ad1e-2a3d9c12afdd": {
+        "CommonName": "(Melee) Honey jar!",
+        "RagdollImpactForce": 50
+    },
+    "9c649932-7329-4cc3-a8cb-a32cae5dd7ca": {
+        "CommonName": "Melee_Kettlebell!",
+        "RagdollImpactForce": 300,
+        "RagdollImpactUpkick": 20
+    },
+    "a42123a6-75ea-4687-96cf-b099a49d3529": {
+        "CommonName": "Melee_CrystalBall!",
+        "RagdollImpactForce": 100
+    },
+    "a6bcac8b-9772-424e-b2c4-3bdb4da0e349": {
+        "CommonName": "Melee_Bust!",
+        "RagdollImpactForce": 150
+    },
+    "afd1f201-d2a5-4d40-80b1-d81b0d9d2541": {
+        "CommonName": "Melee_Full_SodaCan_Jitter!",
+        "RagdollImpactForce": 80
+    },
+    "b549ea89-e9cc-44f4-87ae-7145a7060028": {
+        "CommonName": "Melee_BaseballBat_Clown!",
+        "RagdollImpactForce": 300,
+		"RagdollImpactUpkick": 100
+    },
+    "bb507816-3007-4ac0-ab37-714472ddb7fc": {
+        "CommonName": "Penicillin Cane!",
+        "RagdollImpactForce": 100
+    },
+    "bb635e7c-4e87-43e0-a46a-16e9153a2709": {
+        "CommonName": "Melee broken drumstick!",
+        "RagdollImpactForce": 50
+    },
+    "c19f796e-e23f-4429-a046-47ed3d324359": {
+        "CommonName": "Melee_Full_SodaCan_Thwack!",
+        "RagdollImpactForce": 80
+    },
+    "c21f558b-2935-41e5-88ff-642eb1761ccc": {
+        "CommonName": "Melee_BaseballBat!",
+        "RagdollImpactForce": 200
+    },
+    "c6e9414e-e2ce-470a-95bd-14cd25225878": {
+        "CommonName": "Melee Cocaine Brick!",
+        "RagdollImpactForce": 80
+    },
+    "c7296c5f-6c0e-4d52-98cd-e70a0d329e73": {
+        "CommonName": "Melee_BaseballBat_Japanese!",
+        "RagdollImpactForce": 200
+    },
+    "c86ce2f4-7bd1-4949-acc4-54e5428d9396": {
+        "CommonName": "Melee_CowboyBust!",
+        "RagdollImpactForce": 150
+    },
+    "cb34f363-3534-46ff-b036-d49f1329f300": {
+        "CommonName": "Melee_Torch!",
+        "RagdollImpactForce": 80
+    },
+    "cdfe7f81-a275-4279-b126-71f93dda32bf": {
+        "CommonName": "Melee Bloody Cocaine Brick!",
+        "RagdollImpactForce": 80
+    },
+    "ce633778-7424-4784-8bc2-f9d717a23709": {
+        "CommonName": "Melee_Baseball!",
+        "RagdollImpactForce": 80
+    },
+    "ce8e7099-e60d-47e8-bfd6-4918777f2c8b": {
+        "CommonName": "Melee_ToyTank!",
+        "RagdollImpactForce": 50
+    },
+    "cf4838bf-2417-4baf-ad40-50b7793040c6": {
+        "CommonName": "Melee_CricketBall!",
+        "RagdollImpactForce": 80
+    },
+    "d71bc88e-f8f4-4b86-8da6-ecc16d20fbf5": {
+        "CommonName": "(Gadget) Hand Flare!",
+        "RagdollImpactForce": 80
+    },
+    "de69ce1e-a24d-4acc-895f-4c3a71f47ba8": {
+        "CommonName": "Melee_Full_SodaCan_Japanese!",
+        "RagdollImpactForce": 80
+    },
+    "eadaeffd-c523-4942-b3e8-c475b68cc818": {
+        "CommonName": "Melee_WineBottle!",
+        "RagdollImpactForce": 80
+    },
+    "f16c9e93-3f04-4268-aafd-aa1fc187c181": {
+        "CommonName": "Evergreen WaterSpill Canister!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactForceGlobal": 20
+    },
+    "ffcb781c-42a1-4d6d-9e1f-30603b7b3e5f": {
+        "CommonName": "Melee_Driftwood!",
+        "RagdollImpactForce": 150
+    },
+	"b86b9ece-c929-44f6-8903-8f2c817e2a19": {
+        "CommonName": "QuestItem_CannonBall!",
+        "RagdollImpactForce": 200
+    },
+    "bce6ce09-6ead-4d72-8438-2c7780770e70": {
+        "CommonName": "(Melee) Frying Pan!",
+        "RagdollImpactForce": 150
+    },
+	"987d9c9f-203d-44d9-bbf8-bf703f349565": {
+        "CommonName": "Melee_FirePoker!",
+        "RagdollImpactForce": 80
+    },
+    "a1495dbf-4ceb-4109-85bd-0fa43bd654c8": {
+        "CommonName": "Melee_FirePoker_Holiday_Present!",
+        "RagdollImpactForce": 80
+    }
 }
