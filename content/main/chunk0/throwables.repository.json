@@ -111,6 +111,7 @@
 		"ThrowType": "THROW_NORMAL"
 	},
 	"765b2c7d-8554-463a-9ee4-de7b20822161": {
+		"CommonName": "ICA Device Modular Remote Micro Taze",
 		"ThrowType": "THROW_NORMAL"
 	},
 	"59e407df-c49b-4abe-a1be-0806b026e47e": {
@@ -138,9 +139,8 @@
 	"2880296a-1014-4147-828a-80d82d4404fe": {
 		"ThrowType": "THROW_NORMAL"
 	},
-
-	"903d273c-c750-441d-916a-31557fea3382": {
-		"CommonName": "Melee_Banana",
-		"ThrowVelocity": 25
+	"0209f0b7-f6de-45c2-a730-4802abe35a75": {
+		"CommonName": "ICA Device Modular Proximity Taze",
+		"ThrowType": "THROW_NORMAL"
 	}
 }

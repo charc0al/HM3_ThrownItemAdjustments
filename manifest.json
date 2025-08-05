@@ -76,7 +76,7 @@
 		},
 		{
 			"name": "Impact Force | KO Items",
-			"tooltip": "(WIP) Adds ragdoll impact force to KO items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+			"tooltip": "Adds ragdoll impact force to KO items. Each item has it's own impact force based on what feels natural for the items of different weights.",
 			"group": "Impact",
 			"type": "checkbox",
 			"enabledByDefault": true,

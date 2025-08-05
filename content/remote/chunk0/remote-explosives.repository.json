@@ -52,5 +52,13 @@
 	},
 	"d2cddea0-0964-4986-80d4-6b56b53ca57b": {
 		"ThrowType": "THROW_NORMAL"
+	},
+	"1d4f5a7c-c0fb-4d66-9e77-35ae526ef83a": {
+		"CommonName": "ICA Device Flash Phone",
+		"ThrowType": "THROW_NORMAL"
+	},
+	"93f34bf9-2bd4-4aff-85c7-7e4a9921dfe7": {
+		"CommonName": "ICA Device Modular EMP Charge Mini",
+		"ThrowType": "THROW_NORMAL"
 	}
 }

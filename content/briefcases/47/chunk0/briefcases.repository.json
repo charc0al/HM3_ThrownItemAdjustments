@@ -13,7 +13,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"7ef0c49f-a5dc-421e-abe9-c94fe17ea0f9": {
 		"CommonName": "(S3) Container_Briefcase_ChineseSuitcase",
@@ -21,7 +21,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"7185b682-6c9d-4684-9b5d-d25c336f5cbd": {
 		"CommonName": "(S3) Container_Briefcase_Hunting",
@@ -29,7 +29,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"8e2ccfc2-67d9-4ac1-87db-76e7535cd18d": {
 		"CommonName": "(Container) Briefcase S1 Traveler",
@@ -37,7 +37,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"7b71cf70-ce68-4ad2-b29a-3b2b3bacf11c": {
 		"CommonName": "(Container) Briefcase S3 Traveler",
@@ -45,7 +45,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"763217e5-8e47-4ae1-88a1-88f13b0f73eb": {
 		"CommonName": "(Container) DJ Suitcase Tomorrowland",
@@ -53,7 +53,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"d5f7e973-fbd8-477e-a34e-37985bedd831": {
 		"CommonName": "(Container) Gold Briefcase",
@@ -61,7 +61,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"15e6200e-2000-4966-9771-923ab13c6a1c": {
 		"CommonName": "(Container) ICA Briefcase",
@@ -69,7 +69,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"6a86aea4-77db-4b54-a23a-bb90a398a157": {
 		"CommonName": "(Container) ICA Briefcase Birth",
@@ -77,7 +77,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"d27e9671-c2cb-4d32-b64f-c401140a4de2": {
 		"CommonName": "(Container) ICA Briefcase Death",
@@ -85,7 +85,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"8cb03c05-feba-444a-9ef6-fcb918620e43": {
 		"CommonName": "(Container) ICA Briefcase Deluxe",
@@ -93,7 +93,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"411cfaca-502b-41e3-9a97-311f6644d5a1": {
 		"CommonName": "(Container) ICA Briefcase Life",
@@ -101,7 +101,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"d5d55894-a37a-4a39-b192-7c09b040c73e": {
 		"CommonName": "(Container) ICA Briefcase MK III",
@@ -109,7 +109,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"3e7af76c-d4c7-48f3-8e86-b1cea07eef55": {
 		"CommonName": "(Container) ICA Briefcase Purple",
@@ -117,7 +117,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"adf6a54d-eb23-44d1-94c4-34d3195e368a": {
 		"CommonName": "(Container) ICA Briefcase Stadia",
@@ -125,7 +125,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"0673481e-48ed-4c4a-bd83-53b6724b79fb": {
 		"CommonName": "(Container) ICA Briefcase Wide",
@@ -133,7 +133,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"97152c6c-4410-45ab-9e27-50150ce05f9b": {
 		"CommonName": "(Container) Leather Briefcase",
@@ -141,7 +141,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"83e194ed-a937-4680-8eb0-7a939bec1df8": {
 		"CommonName": "(Container) Military Briefcase",
@@ -149,7 +149,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"25ecb0e7-a297-43e2-a360-6ca085b73a75": {
 		"CommonName": "(Container) Small Leather Bag",
@@ -157,7 +157,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"d21f52a2-988b-4e97-8f47-9d1c6b341adc": {
 		"CommonName": "(Container) Tool Box",
@@ -165,7 +165,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"1a760328-9f72-4ad8-80f8-e642d045146b": {
 		"CommonName": "(S3) Container_Briefcase_Jager7",
@@ -173,7 +173,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"4c2dfff7-9bb4-4cf0-b749-3916175912b8": {
 		"CommonName": "(S3) Container_Briefcase_Sieger_300",
@@ -181,7 +181,7 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	},
 	"d299f56d-120a-4395-adb7-98310ee725d4": {
 		"CommonName": "Briefcase HM3 Traveler",
@@ -189,6 +189,6 @@
 		"RagdollImpactUpkick": 100,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
-		"ThrowVelocity": 75
+		"ThrowVelocity": 50
 	}
 }
