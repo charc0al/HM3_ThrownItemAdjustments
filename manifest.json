@@ -75,7 +75,23 @@
 			"contentFolders": ["content/briefcases/moon"]
 		},
 		{
-			"name": "Throw | Dot Reticle",
+			"name": "Impact Force | KO Items",
+			"tooltip": "(WIP) Adds ragdoll impact force to KO items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+			"group": "Impact",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/impact/ko"]
+		},
+		{
+			"name": "Impact Force | Lethal Items",
+			"tooltip": "(WIP) Adds ragdoll impact force to LETHAL items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+			"group": "Impact",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/impact/lethal"]
+		},
+		{
+			"name": "Throw HUD | Dot Reticle",
 			"tooltip": "Changes the thrown object reticle into a dot",
 			"group": "Throw",
 			"type": "checkbox",
@@ -84,11 +100,12 @@
 			"contentFolders": ["content/throw_target"]
 		},
 		{
-			"name": "Throw | Hide Arc",
+			"name": "Throw HUD | Hide Arc",
 			"tooltip": "Hides the 3D throw arc",
 			"group": "Throw",
 			"type": "checkbox",
 			"image": "smf/throwarc.png",
+			"enabledByDefault": true,
 			"contentFolders": ["content/throw_arc"]
 		},
 		{

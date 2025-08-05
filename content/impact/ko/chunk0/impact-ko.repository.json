@@ -1,0 +1,112 @@
+{
+	"a8a0c154-c36f-413e-8f29-b83a1b7a22f0": {
+        "CommonName": "Propane Flask!",
+        "RagdollImpactForce": 150,
+        "RagdollImpactUpkick": 20
+    },
+	"d64eb5f2-1e9b-402d-855b-c714cfde50db": {
+        "CommonName": "Melee_FireExtinguisher!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 10
+    },
+    "09cd0b7c-4e79-481b-8cfc-f535f2d6745d": {
+        "CommonName": "Melee_Shovel_Wrapped!",
+		"RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 30
+    },
+    "1066917f-2e04-4c54-b8cb-55cb1dcc2f26": {
+        "CommonName": "Melee_Shovel!",
+		"RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 30
+    },
+    "248cbd89-9923-452a-8cda-a5f76d8930dc": {
+        "CommonName": "Melee Collectors Baseball Bat!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 50
+    },
+    "4eede7ee-582b-49a4-b438-2418d82671d9": {
+        "CommonName": "Bulldog Cane!",
+		"RagdollImpactForce": 100
+    },
+    "54b1ffd7-5290-4b58-8e1c-53fd038a08f5": {
+        "CommonName": "Small Goldbar (Coin)!",
+        "RagdollImpactForce": 30
+    },
+    "691ba631-fcc6-49c8-a724-d18bb096703e": {
+        "CommonName": "Jerry_Can!",
+        "RagdollImpactForce": 100
+    },
+    "70e6a06f-c6e0-4ce4-a0f9-6c61ec0d8fb5": {
+        "CommonName": "Penicillin_Melee_Kettlebell!",
+        "RagdollImpactForce": 300,
+        "RagdollImpactUpkick": 50
+    },
+    "acc9d7b8-80f1-4bb0-ba81-3a69b09e0543": {
+        "CommonName": "Prop_Melee_Meat_Item!",
+		"RagdollImpactForce": 100
+    },
+    "d2f4e54f-1eb8-482d-9732-a9159b1a9229": {
+        "CommonName": "Colombia Melee Cocaine Bus!",
+		"RagdollImpactForce": 100
+    },
+    "d806777d-2715-48a4-bd1d-fa1d716af316": {
+        "CommonName": "Melee_Shovel_ObjectiveMarker!",
+		"RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 30
+    },
+    "dac32c27-4c49-4933-bccb-56c8f526515f": {
+        "CommonName": "Gadget Electricity Car Battery!",
+        "RagdollImpactForce": 50
+    },
+    "e98f44fd-7f36-46a8-ae3c-bf080e8454d3": {
+        "CommonName": "Melee_Umbrella!",
+        "RagdollImpactForce": 50
+    },
+	"1033c25d-3d57-4c15-b7d0-acf3b45665ef": {
+        "CommonName": "Melee_NinjaTonfa!",
+        "RagdollImpactForce": 250,
+        "RagdollImpactUpkick": 50
+    },
+    "17615866-32e7-4e1e-951d-7ef2ada796e9": {
+        "CommonName": "Melee_GolfClub!",
+        "RagdollImpactForce": 100
+    },
+    "23b8ad17-1913-40ce-b3bc-2c92317801dd": {
+        "CommonName": "Melee_Mace!",
+        "RagdollImpactForce": 150,
+        "RagdollImpactUpkick": 50
+    },
+    "510c62c2-1f40-4a4d-9e42-da677bd116e7": {
+        "CommonName": "Melee_PoliceBaton!",
+        "RagdollImpactForce": 80
+    },
+    "7aeb740f-3d60-4e49-8d27-15a98067ce9f": {
+        "CommonName": "Melee_LeadPipe!",
+        "RagdollImpactForce": 80
+    },
+    "8d937ed4-dc85-476b-8048-e96a8900e7bf": {
+        "CommonName": "Melee_ProstheticArm!",
+        "RagdollImpactForce": 150
+    },
+    "95d1c5bd-72de-4236-97c0-b96fc5d92fa8": {
+        "CommonName": "Melee_PoolBall!",
+        "RagdollImpactForce": 50
+    },
+    "bad168bb-3629-42b3-bc57-604b03a81d30": {
+        "CommonName": "Melee_Package!",
+        "RagdollImpactForce": 50
+    },
+    "c4747fa2-4958-4a02-926e-3b069cf218dc": {
+        "CommonName": "Melee_Modern_Hammer!",
+        "RagdollImpactForce": 80
+    },
+    "cbc38627-a3c4-4116-8731-ace217a831e7": {
+        "CommonName": "Melee_SwitchStandLever!",
+        "RagdollImpactForce": 300,
+        "RagdollImpactForceGlobal": 80
+    },
+    "d1f29c76-5751-4e06-b534-e6eb7522b128": {
+        "CommonName": "Melee_KronstadtAndroidArm!",
+        "RagdollImpactForce": 100
+    }
+}

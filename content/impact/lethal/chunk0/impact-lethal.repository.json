@@ -1,0 +1,65 @@
+{
+    "12200bd8-9605-4111-8b26-4e73cb07d816": {
+        "CommonName": "Melee TheIsland Sword Excalibur!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 50
+    },
+    "2add9602-cda7-43fd-9758-6269c8fbb233": {
+        "CommonName": "Melee_FireAxe_Holiday_Present!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 50
+    },
+    "369c68f7-cbef-4e45-83c7-8acd0dc2d237": {
+        "CommonName": "Melee_OldAxe!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 50
+    },
+    "58dceb1c-d7db-41dc-9750-55e3ab87fdf0": {
+        "CommonName": "Melee_BattleAxe!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 20
+    },
+    "94f52181-b9ec-4363-baef-d53b4e424b74": {
+        "CommonName": "Melee_Sabre!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 40
+    },
+    "9a7711c7-ede9-4230-853e-ab94c65fc0c9": {
+        "CommonName": "Melee_VikingAxe!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 40
+    },
+    "a8bc4325-718e-45ba-b0e4-000729c70ce4": {
+        "CommonName": "Melee_FireAxe!",
+        "RagdollImpactForce": 200,
+        "RagdollImpactUpkick": 40
+    },
+    "b153112f-9cd1-4a49-a9c6-ba1a34f443ab": {
+        "CommonName": "Melee_BeakAxe!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 40
+    },
+    "b4d4ed1a-0687-48a9-a731-0e3b99494eb6": {
+        "CommonName": "Melee_Scimitar!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 20
+    },
+    "d2a7fa04-2cac-45d8-b696-47c566bb95ff": {
+        "CommonName": "Melee_SappersAxe!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 20
+    },
+    "d70c739a-6956-4771-ba9c-7f3c9206f762": {
+        "CommonName": "(Melee) Ice Axe!",
+        "RagdollImpactForce": 50
+    },
+    "d938aa5c-72cf-4907-8bf5-522a67a11ae5": {
+        "CommonName": "Melee_Long_Sword!",
+        "RagdollImpactForce": 100,
+        "RagdollImpactUpkick": 50
+    },
+    "ed45f927-589d-4bad-ac1b-67e41c32e5ee": {
+        "CommonName": "Melee_Axe_ICA!",
+        "RagdollImpactForce": 100
+    }
+}
