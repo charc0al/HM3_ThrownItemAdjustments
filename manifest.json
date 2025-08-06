@@ -3,8 +3,8 @@
 	"version": "1.5.0",
 	"updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
 	"id": "Charc0al.ThrownItemAdjustments",
-	"name": "Thrown Item Adjustments",
-	"description": "Removes lock-on throw from grenades, proximity explosives, and a few other items. Remote and briefcase options as well.",
+	"name": "Throw Impact and Lock-on Adjustments",
+	"description": "Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.",
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
 	"contentFolders": ["content/main"],
@@ -19,7 +19,7 @@
 		},
 		{
 			"name": "No Lock-on | Remote Explosives & Items",
-			"tooltip": "Turn off lock-on for throwing remote explosives",
+			"tooltip": "Turn off lock-on for throwing remote explosives and other remote items like the remote taser",
 			"group": "main",
 			"type": "checkbox",
 			"enabledByDefault": true,
@@ -84,7 +84,7 @@
 		},
 		{
 			"name": "Impact Force | Lethal Items",
-			"tooltip": "(WIP) Adds ragdoll impact force to LETHAL items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+			"tooltip": "Adds ragdoll impact force to LETHAL items. Each item has it's own impact force based on what feels natural for the items of different weights.",
 			"group": "Impact",
 			"type": "checkbox",
 			"enabledByDefault": true,
