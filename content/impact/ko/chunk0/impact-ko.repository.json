@@ -233,15 +233,15 @@
 	},
 	"58e6a677-34ab-4962-b6b7-1892c290019a": {
 		"CommonName": "GL2 tool pristine wrench",
-		"RagdollImpactForce": 80
+		"RagdollImpactForce": 100
 	},
 	"5ad01c38-244a-4b75-94d6-624850d2dc92": {
 		"CommonName": "Melee_Spraycan",
-		"RagdollImpactForce": 80
+		"RagdollImpactForce": 100
 	},
 	"5cc4d1ea-b4fa-4667-ba3a-b6e859f03059": {
 		"CommonName": "Melee_Brick",
-		"RagdollImpactForce": 80
+		"RagdollImpactForce": 120
 	},
 	"683e2888-9e57-4ab8-a56e-38836585298d": {
 		"CommonName": "Melee_SnowGlobe_Gecko",
