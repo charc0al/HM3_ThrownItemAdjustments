@@ -433,15 +433,15 @@
 		"RagdollImpactForce": 100
 	},
 	"ac77e98d-4ffa-4755-80fc-cd6e7adc63fb": {
-        "CommonName": "Expired Canned Bolognese (Sick)",
-        "RagdollImpactForce": 100
-    },
+		"CommonName": "Expired Canned Bolognese (Sick)",
+		"RagdollImpactForce": 100
+	},
 	"01ed6d15-e26e-4362-b1a6-363684a7d0fd": {
-        "CommonName": "Tool_Crowbar",
-        "RagdollImpactForce": 120
-    },
-    "5ffda47b-f445-44c7-8812-8d7e39e4928c": {
-        "CommonName": "Tool_Crowbar_Holiday_Present",
-        "RagdollImpactForce": 120
-    }
+		"CommonName": "Tool_Crowbar",
+		"RagdollImpactForce": 120
+	},
+	"5ffda47b-f445-44c7-8812-8d7e39e4928c": {
+		"CommonName": "Tool_Crowbar_Holiday_Present",
+		"RagdollImpactForce": 120
+	}
 }
