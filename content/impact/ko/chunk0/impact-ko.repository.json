@@ -1,12 +1,12 @@
 {
 	"a8a0c154-c36f-413e-8f29-b83a1b7a22f0": {
 		"CommonName": "Propane Flask",
-		"RagdollImpactForce": 150,
+		"RagdollImpactForce": 170,
 		"RagdollImpactUpkick": 20
 	},
 	"d64eb5f2-1e9b-402d-855b-c714cfde50db": {
 		"CommonName": "Melee_FireExtinguisher",
-		"RagdollImpactForce": 100,
+		"RagdollImpactForce": 150,
 		"RagdollImpactUpkick": 10
 	},
 	"09cd0b7c-4e79-481b-8cfc-f535f2d6745d": {
@@ -19,6 +19,12 @@
 		"RagdollImpactForce": 200,
 		"RagdollImpactUpkick": 30
 	},
+	"ce633778-7424-4784-8bc2-f9d717a23709": {
+		"CommonName": "Melee_Baseball",
+		"ItemImpactForce": 5,
+		"ItemImpactUpkick": 5,
+		"RagdollImpactForce": 100
+	},
 	"248cbd89-9923-452a-8cda-a5f76d8930dc": {
 		"CommonName": "Melee Collectors Baseball Bat",
 		"RagdollImpactForce": 200,
@@ -30,7 +36,7 @@
 	},
 	"54b1ffd7-5290-4b58-8e1c-53fd038a08f5": {
 		"CommonName": "Small Goldbar (Coin)",
-		"RagdollImpactForce": 30
+		"RagdollImpactForce": 100
 	},
 	"691ba631-fcc6-49c8-a724-d18bb096703e": {
 		"CommonName": "Jerry_Can",
@@ -94,7 +100,7 @@
 	},
 	"bad168bb-3629-42b3-bc57-604b03a81d30": {
 		"CommonName": "Melee_Package",
-		"RagdollImpactForce": 50
+		"RagdollImpactForce": 80
 	},
 	"c4747fa2-4958-4a02-926e-3b069cf218dc": {
 		"CommonName": "Melee_Modern_Hammer",
@@ -115,7 +121,10 @@
 	},
 	"0576a20c-581b-4705-8b9d-464e077d117e": {
 		"CommonName": "WetFloorSign",
-		"RagdollImpactForce": 50
+		"OverrideItemThrowRotation": false,
+		"RagdollImpactForce": 80,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 50
 	},
 	"0705964d-dab5-45b6-96ae-30cd4c2f0dec": {
 		"CommonName": "Melee_WoodenPaddle",
@@ -160,7 +169,8 @@
 	},
 	"33c16292-7f60-4f0b-8ea0-bae80bc31d1a": {
 		"CommonName": "Melee_Shuriken_Bat_X",
-		"ItemImpactForce": 60,
+		"ItemImpactUpkick": 3,
+		"ItemImpactForce": 15,
 		"RagdollImpactForce": 150
 	},
 	"3a359494-ee05-4fea-beac-8726233a55bf": {
@@ -256,7 +266,7 @@
 	},
 	"736132de-78f3-4366-b927-ed9a401dbe26": {
 		"CommonName": "(Tool) Crowbar Professional",
-		"RagdollImpactForce": 200
+		"RagdollImpactForce": 150
 	},
 	"74b04d1f-8ac9-46a0-9a6c-8579cf03276f": {
 		"CommonName": "Melee_Didgeridoo",
@@ -357,10 +367,6 @@
 		"CommonName": "Melee Bloody Cocaine Brick",
 		"RagdollImpactForce": 80
 	},
-	"ce633778-7424-4784-8bc2-f9d717a23709": {
-		"CommonName": "Melee_Baseball",
-		"RagdollImpactForce": 80
-	},
 	"ce8e7099-e60d-47e8-bfd6-4918777f2c8b": {
 		"CommonName": "Melee_ToyTank",
 		"RagdollImpactForce": 50
@@ -412,7 +418,7 @@
 	},
 	"606a9606-8c05-4dcd-93fa-ec9cdc13f357": {
 		"CommonName": "Tool_PneumaticWrench",
-		"RagdollImpactForce": 200
+		"RagdollImpactForce": 180
 	},
 	"6adddf7e-6879-4d51-a7e2-6a25ffdca6ae": {
 		"CommonName": "Tool_Wrench",
@@ -425,5 +431,17 @@
 	"4d0d6b2a-dd81-474c-a412-3bf19af8233d": {
 		"CommonName": "Melee_Fish",
 		"RagdollImpactForce": 100
-	}
+	},
+	"ac77e98d-4ffa-4755-80fc-cd6e7adc63fb": {
+        "CommonName": "Expired Canned Bolognese (Sick)",
+        "RagdollImpactForce": 100
+    },
+	"01ed6d15-e26e-4362-b1a6-363684a7d0fd": {
+        "CommonName": "Tool_Crowbar",
+        "RagdollImpactForce": 120
+    },
+    "5ffda47b-f445-44c7-8812-8d7e39e4928c": {
+        "CommonName": "Tool_Crowbar_Holiday_Present",
+        "RagdollImpactForce": 120
+    }
 }
