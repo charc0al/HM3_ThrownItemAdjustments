@@ -49,6 +49,8 @@
 	},
 	"acc9d7b8-80f1-4bb0-ba81-3a69b09e0543": {
 		"CommonName": "Prop_Melee_Meat_Item",
+		"ItemImpactForce": 3,
+        "ItemImpactUpkick": 5,
 		"RagdollImpactForce": 100
 	},
 	"d2f4e54f-1eb8-482d-9732-a9159b1a9229": {
@@ -75,7 +77,7 @@
 	},
 	"17615866-32e7-4e1e-951d-7ef2ada796e9": {
 		"CommonName": "Melee_GolfClub",
-		"RagdollImpactForce": 100
+		"RagdollImpactForce": 150
 	},
 	"23b8ad17-1913-40ce-b3bc-2c92317801dd": {
 		"CommonName": "Melee_Mace",
@@ -96,6 +98,8 @@
 	},
 	"95d1c5bd-72de-4236-97c0-b96fc5d92fa8": {
 		"CommonName": "Melee_PoolBall",
+		"ItemImpactForce": -5,
+		"ItemImpactUpkick": 5,
 		"RagdollImpactForce": 50
 	},
 	"bad168bb-3629-42b3-bc57-604b03a81d30": {
@@ -117,7 +121,7 @@
 	},
 	"004ecac9-6aee-4b30-a073-4399a94535d8": {
 		"CommonName": "Melee_Full_SodaCan",
-		"RagdollImpactForce": 50
+		"RagdollImpactForce": 80
 	},
 	"0576a20c-581b-4705-8b9d-464e077d117e": {
 		"CommonName": "WetFloorSign",
@@ -153,6 +157,8 @@
 	},
 	"22183fd3-d837-47c6-9c44-05637300af93": {
 		"CommonName": "Melee_Coconut",
+		"ItemImpactForce": 5,
+		"ItemImpactUpkick": 5,
 		"RagdollImpactForce": 80
 	},
 	"299eae90-4744-4557-b30b-71382cba2839": {
@@ -373,6 +379,8 @@
 	},
 	"cf4838bf-2417-4baf-ad40-50b7793040c6": {
 		"CommonName": "Melee_CricketBall",
+		"ItemImpactForce": 2,
+		"ItemImpactUpkick": 5,
 		"RagdollImpactForce": 80
 	},
 	"d71bc88e-f8f4-4b86-8da6-ecc16d20fbf5": {
@@ -426,10 +434,14 @@
 	},
 	"1f11f901-2dbe-4e48-a77a-74c110b93da0": {
 		"CommonName": "Melee_Fish_B",
+		"ItemImpactForce": 2,
+		"ItemImpactUpkick": 5,
 		"RagdollImpactForce": 100
 	},
 	"4d0d6b2a-dd81-474c-a412-3bf19af8233d": {
 		"CommonName": "Melee_Fish",
+		"ItemImpactForce": 5,
+		"ItemImpactUpkick": 2,
 		"RagdollImpactForce": 100
 	},
 	"ac77e98d-4ffa-4755-80fc-cd6e7adc63fb": {
@@ -443,5 +455,58 @@
 	"5ffda47b-f445-44c7-8812-8d7e39e4928c": {
 		"CommonName": "Tool_Crowbar_Holiday_Present",
 		"RagdollImpactForce": 120
-	}
+	},
+	"1973ae7e-538c-4a43-98af-208b9893d246": {
+        "CommonName": "Melee_Maori_Paddle_A",
+        "RagdollImpactForce": 120
+    },
+    "485f8902-b7e3-4916-8b90-ea7cebb305de": {
+        "CommonName": "Melee_Golfball_GolfMode",
+        "RagdollImpactForce": 40
+    },
+    "6956a228-a1ff-4875-9fb9-f75df316ef99": {
+        "CommonName": "Melee_SafehouseBlueprints",
+        "RagdollImpactForce": 50
+    },
+    "706cb615-e66d-49f3-86bb-899fa7117bcf": {
+        "CommonName": "Melee_Gecko_SkyScraperModel",
+        "RagdollImpactForce": 50
+    },
+    "8e5e14e9-3a6a-4d8a-8382-bc791f2b1211": {
+        "CommonName": "Melee_Football_Shoe",
+        "RagdollImpactForce": 50
+    },
+    "a2fce6cb-7b4a-4d2e-81b7-919bf7c5b7ad": {
+        "CommonName": "Melee_Pearl",
+        "ItemImpactForce": 5,
+        "ItemImpactUpkick": 5,
+        "RagdollImpactForce": 40
+    },
+    "a96cdbd8-9657-416a-87bf-d2ed21840794": {
+        "CommonName": "Melee_NewsPaperRoll",
+        "RagdollImpactForce": 40
+    },
+    "ac83255f-4419-4bca-a016-52f1326b57c5": {
+        "CommonName": "Melee_VHS",
+        "RagdollImpactForce": 50
+    },
+    "df6bf6bf-67ff-4325-8dc9-5eae6fe77fec": {
+        "CommonName": "Melee_Maori_Paddle_B",
+        "RagdollImpactForce": 120
+    },
+	"0ff22cf7-a472-48d6-87eb-1b307bc5c576": {
+        "CommonName": "Tool_Apple",
+        "ItemImpactForce": 3,
+        "ItemImpactUpkick": 5
+    },
+    "58dad7ea-f047-469f-92a1-d915a462c14c": {
+        "CommonName": "Pumpkin (small)",
+        "ItemImpactForce": 10,
+        "ItemImpactUpkick": 10
+    },
+    "84f50c4c-de1d-41f3-8021-1cba7df987cd": {
+		"CommonName": "Melee_Soap",
+        "ItemImpactForce": 3,
+        "ItemImpactUpkick": 2
+    }
 }
