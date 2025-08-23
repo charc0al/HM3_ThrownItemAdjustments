@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.6.0",
+	"version": "1.7.0",
 	"updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
 	"id": "Charc0al.ThrownItemAdjustments",
 	"name": "Throw Impact and Lock-on Adjustments",
