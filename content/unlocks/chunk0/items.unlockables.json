@@ -1,0 +1,353 @@
+{
+	"PACKAGE_STARTING_PACKAGE": {
+		"Properties": {
+			"Unlocks": [
+				"CONTAINER_SNIPERCASE",
+				"ITEM_CHLOROFORM",
+				"JERRYCAN_WATER",
+				"CONTAINER_MILITARY",
+				"ITEM_PROPANE_FLASK",
+				"ITEM_FIRE_EXTINGUISHER",
+				"MELEE_BRICK",
+				"MELEE_FRYING_PAN",
+				"MELEE_CANNON_BALL",
+				"MELEE_FIRE_AXE",
+				"MELEE_BATTLE_AXE",
+				"MELEE_GRAPE",
+				"MELEE_BILLIARD",
+				"MELEE_EXCALIBUR",
+				"MELEE_BATARANG_NL"
+			]
+		}
+	},
+	"CONTAINER_SNIPERCASE": {
+		"Id": "CONTAINER_SNIPERCASE",
+		"Guid": "417a0c49-9bf1-b940-60d7-790ce7578c6a",
+		"Type": "gear",
+		"Subtype": "container",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 3,
+			"LoadoutSlot": "gear",
+			"IsContainer": true,
+			"Rarity": "common",
+			"RepositoryId": "0673481e-48ed-4c4a-bd83-53b6724b79fb"
+		},
+		"Rarity": "common"
+	},
+	"ITEM_CHLOROFORM": {
+		"Id": "ITEM_CHLOROFORM",
+		"Guid": "b792a65e-918e-42f0-b764-f8ef1d5a451a",
+		"Type": "gear",
+		"Subtype": "poison",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {
+				"range": 1,
+				"damage": 1,
+				"clipsize": 1,
+				"rateoffire": 1
+			},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "3cf48e44-6e0f-4e4d-9d21-6a4af476118c",
+			"UnlockOrder": 5
+		},
+		"Rarity": "common"
+	},
+	"JERRYCAN_WATER": {
+		"Id": "JERRYCAN_WATER",
+		"Guid": "f2979ed8-28f6-4c8d-9afc-7b1a1aa11a11",
+		"Type": "gear",
+		"Subtype": "tool",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"IsContainer": false,
+			"LoadoutSlot": "gear",
+			"RepositoryId": "f16c9e93-3f04-4268-aafd-aa1fc187c181",
+			"RepositoryAssets": ["f16c9e93-3f04-4268-aafd-aa1fc187c181"]
+		},
+		"Rarity": "common"
+	},
+	"CONTAINER_MILITARY": {
+		"Id": "CONTAINER_MILITARY",
+		"Guid": "5c9e7a88-d3b1-4f26-9914-2915d4f61c18",
+		"Type": "gear",
+		"Subtype": "container",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 3,
+			"LoadoutSlot": "gear",
+			"IsContainer": true,
+			"Rarity": "common",
+			"RepositoryId": "83e194ed-a937-4680-8eb0-7a939bec1df8"
+		},
+		"Rarity": "common"
+	},
+	"ITEM_PROPANE_FLASK": {
+		"Id": "ITEM_PROPANE_FLASK",
+		"Guid": "9226134a-fc7b-4506-8dbd-5d53b96a7e55",
+		"Type": "gear",
+		"Subtype": "explosive",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"IsContainer": false,
+			"LoadoutSlot": "gear",
+			"RepositoryId": "a8a0c154-c36f-413e-8f29-b83a1b7a22f0",
+			"RepositoryAssets": ["a8a0c154-c36f-413e-8f29-b83a1b7a22f0"]
+		},
+		"Rarity": "common"
+	},
+	"ITEM_FIRE_EXTINGUISHER": {
+		"Id": "ITEM_FIRE_EXTINGUISHER",
+		"Guid": "36dc7233-e6d8-462a-a0ab-02ff6dae7403",
+		"Type": "gear",
+		"Subtype": "explosive",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"IsContainer": false,
+			"LoadoutSlot": "gear",
+			"RepositoryId": "d64eb5f2-1e9b-402d-855b-c714cfde50db",
+			"RepositoryAssets": ["d64eb5f2-1e9b-402d-855b-c714cfde50db"]
+		},
+		"Rarity": "common"
+	},
+	"MELEE_FRYING_PAN": {
+		"Id": "MELEE_FRYING_PAN",
+		"Guid": "1c6f8baf-6644-40cb-adae-5ab398ce4412",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "bce6ce09-6ead-4d72-8438-2c7780770e70"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_BRICK": {
+		"Id": "MELEE_BRICK",
+		"Guid": "12a0ef48-d9cc-4293-86e0-964beb6aac86",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "5cc4d1ea-b4fa-4667-ba3a-b6e859f03059"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_CANNON_BALL": {
+		"Id": "MELEE_CANNON_BALL",
+		"Guid": "1073adc9-1853-42de-a993-a02f63517f64",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "b86b9ece-c929-44f6-8903-8f2c817e2a19"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_FIRE_AXE": {
+		"Id": "MELEE_FIRE_AXE",
+		"Guid": "2a7f7d71-e2d8-41e6-a20f-5c3e418f7de2",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "carriedweapon",
+			"RepositoryId": "a8bc4325-718e-45ba-b0e4-000729c70ce4"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_BATTLE_AXE": {
+		"Id": "MELEE_BATTLE_AXE",
+		"Guid": "63556f97-4130-4786-a123-f020d2973f12",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "carriedweapon",
+			"RepositoryId": "58dceb1c-d7db-41dc-9750-55e3ab87fdf0"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_GRAPE": {
+		"Id": "MELEE_GRAPE",
+		"Guid": "80d6c01b-7c1c-4022-867b-09329972f04f",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "3fbd6da4-c61c-40d6-9494-8277d2e172e4"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_BILLIARD": {
+		"Id": "MELEE_BILLIARD",
+		"Guid": "ec0ff85c-0aeb-4082-8909-26b9f5a67fff",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "95d1c5bd-72de-4236-97c0-b96fc5d92fa8"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_EXCALIBUR": {
+		"Id": "MELEE_EXCALIBUR",
+		"Guid": "2d085853-072c-493f-b2cf-dcd2cbc108c4",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "12200bd8-9605-4111-8b26-4e73cb07d816"
+		},
+		"Rarity": "common"
+	},
+	"MELEE_BATARANG_NL": {
+		"Id": "MELEE_BATARANG_NL",
+		"Guid": "c70222ab-7003-46c2-af7e-2c27c7d16d3d",
+		"Type": "weapon",
+		"Subtype": "melee",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Gameplay": {},
+			"Quality": 4,
+			"Rarity": "common",
+			"LoadoutSlot": "gear",
+			"RepositoryId": "33c16292-7f60-4f0b-8ea0-bae80bc31d1a"
+		},
+		"Rarity": "common"
+	}
+}

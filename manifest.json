@@ -95,7 +95,7 @@
 			"tooltip": "Changes the thrown object reticle into a dot",
 			"group": "Throw",
 			"type": "checkbox",
-			"image": "smf/throw.png",
+			"image": "smf/throw.webp",
 			"enabledByDefault": true,
 			"contentFolders": ["content/throw_target"]
 		},
@@ -104,13 +104,22 @@
 			"tooltip": "Hides the 3D throw arc",
 			"group": "Throw",
 			"type": "checkbox",
-			"image": "smf/throwarc.png",
+			"image": "smf/throwarc.webp",
 			"enabledByDefault": true,
 			"contentFolders": ["content/throw_arc"]
 		},
 		{
+			"name": "Loadout | Common Throwables",
+			"tooltip": "(Peacock required) Adds some fun common items to the loadout screen including Frying Pan, Propane Flask, Chloroform, Brick, and a few more",
+			"group": "Loadout",
+			"type": "checkbox",
+			"image": "smf/loadout.webp",
+			"enabledByDefault": true,
+			"contentFolders": ["content/unlocks"]
+		},
+		{
 			"name": "ICA Homing Banana",
-			"tooltip": "ICA Homing Banana",
+			"tooltip": "Just a bit of fun",
 			"group": "Bananer",
 			"type": "checkbox",
 			"contentFolders": ["content/banana"]
