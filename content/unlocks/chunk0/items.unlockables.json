@@ -390,10 +390,7 @@
 			"Gameplay": {},
 			"Quality": 4,
 			"Rarity": "common",
-			"GameAssets": [
-				"PROP_MELEE_SHURIKEN_BAT_X",
-				"PROP_MELEE_SHURIKEN_BAT_X"
-			],
+			"GameAssets": ["PROP_MELEE_SHURIKEN_BAT_X", "PROP_MELEE_SHURIKEN_BAT_X"],
 			"LoadoutSlot": "gear",
 			"RepositoryId": "33c16292-7f60-4f0b-8ea0-bae80bc31d1a",
 			"RepositoryAssets": [
