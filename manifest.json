@@ -3,7 +3,7 @@
 	"version": "1.7.1",
 	"updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
 	"id": "Charc0al.ThrownItemAdjustments",
-	"name": "Throw Impact and Lock-on Adjustments",
+	"name": "Impact Physics and Lock-on Adjustments",
 	"description": "Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.",
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
