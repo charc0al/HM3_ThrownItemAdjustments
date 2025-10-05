@@ -1,4 +1,4 @@
-# Throw Impact and Lock-on Adjustments
+# Impact Physics and Lock-on Adjustments
 
 Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.
 
@@ -6,4 +6,4 @@ Adds ragdoll impact to briefcases and thrown items, and options to disable lock-
 
 ---
 
-`Charc0al.ThrownItemAdjustments` v1.7.1, by Charc0al. This README was automatically generated from the mod's manifest.
+`Charc0al.ThrownItemAdjustments` v1.7.2, by Charc0al. This README was automatically generated from the mod's manifest.
