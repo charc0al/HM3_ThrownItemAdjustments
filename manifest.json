@@ -7,7 +7,6 @@
 	"description": "Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.",
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
-	"contentFolders": ["content/main"],
 	"options": [
 		{
 			"name": "No Lock-on | Grenades & Proximity Items",
@@ -15,7 +14,7 @@
 			"group": "main",
 			"type": "checkbox",
 			"enabledByDefault": true,
-			"contentFolders": ["content/main"]
+			"contentFolders": ["content/grenades"]
 		},
 		{
 			"name": "No Lock-on | Remote Explosives & Items",
