@@ -2,7 +2,6 @@
 	"PACKAGE_STARTING_PACKAGE": {
 		"Properties": {
 			"Unlocks": [
-				"CONTAINER_SNIPERCASE",
 				"ITEM_CHLOROFORM",
 				"JERRYCAN_WATER",
 				"CONTAINER_MILITARY",
@@ -22,28 +21,6 @@
 				"MELEE_BATARANG_NL"
 			]
 		}
-	},
-	"CONTAINER_SNIPERCASE": {
-		"Id": "CONTAINER_SNIPERCASE",
-		"Guid": "417a0c49-9bf1-b940-60d7-790ce7578c6a",
-		"Type": "gear",
-		"Subtype": "container",
-		"ImageId": "",
-		"RMTPrice": -1,
-		"GamePrice": -1,
-		"IsPurchasable": false,
-		"IsPublished": true,
-		"IsDroppable": false,
-		"Capabilities": [],
-		"Qualities": {},
-		"Properties": {
-			"Quality": 3,
-			"LoadoutSlot": "gear",
-			"IsContainer": true,
-			"Rarity": "common",
-			"RepositoryId": "0673481e-48ed-4c4a-bd83-53b6724b79fb"
-		},
-		"Rarity": "common"
 	},
 	"ITEM_CHLOROFORM": {
 		"Id": "ITEM_CHLOROFORM",
