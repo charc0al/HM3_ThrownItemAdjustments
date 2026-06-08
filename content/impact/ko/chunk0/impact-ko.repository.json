@@ -522,11 +522,11 @@
 		"RagdollImpactForce": 80
 	},
 	"717b7a4d-8b02-4d7a-b065-434a413035db": {
-        "CommonName": "Melee_SportsPack_Trophy_A",
-        "RagdollImpactForce": 100.0
-    },
+		"CommonName": "Melee_SportsPack_Trophy_A",
+		"RagdollImpactForce": 100.0
+	},
 	"bdc60c80-6c65-4cae-8ac0-24374a8512b7": {
-        "CommonName": "(Pomada) Boombox Distraction",
-        "RagdollImpactForce": 200.0
-    }
+		"CommonName": "(Pomada) Boombox Distraction",
+		"RagdollImpactForce": 200.0
+	}
 }

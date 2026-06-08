@@ -192,11 +192,11 @@
 		"ThrowVelocity": 75
 	},
 	"56a7e2d3-9b95-4d7a-bcbb-f05aaadd13b6": {
-        "CommonName": "(Container) Briefcase - Sports Pack A",
+		"CommonName": "(Container) Briefcase - Sports Pack A",
 		"RagdollImpactForce": 200,
 		"RagdollImpactUpkick": 20,
 		"RagdollImpactUpkickGlobal": 0,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 75
-    }
+	}
 }
