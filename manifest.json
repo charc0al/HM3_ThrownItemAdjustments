@@ -1,127 +1,157 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.9.0",
-	"updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
-	"id": "Charc0al.ThrownItemAdjustments",
-	"name": "Impact Physics and Lock-on Adjustments",
-	"description": "Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.",
-	"authors": ["Charc0al"],
-	"frameworkVersion": "2.33.26",
-	"options": [
-		{
-			"name": "No Lock-on | Grenades & Proximity Items",
-			"tooltip": "Turn off lock-on for throwing grenades and proximity explosives / items, including things like the chloroform flask and the durian.",
-			"group": "main",
-			"type": "checkbox",
-			"enabledByDefault": true,
-			"contentFolders": ["content/grenades"]
-		},
-		{
-			"name": "No Lock-on | Remote Explosives & Items",
-			"tooltip": "Turn off lock-on for throwing remote explosives and other remote items like the remote taser",
-			"group": "main",
-			"type": "checkbox",
-			"enabledByDefault": true,
-			"contentFolders": ["content/remote"]
-		},
-		{
-			"name": "No changes",
-			"tooltip": "No changes to briefcase throw.",
-			"group": "Briefcase Throw",
-			"type": "select"
-		},
-		{
-			"name": "Faster throw - Charc0al's Recommendation",
-			"tooltip": "Most briefcases: 47 strength | Common (leather, military) briefcases: Human strength | Sieger 300 Briefcase: Extreme | Purple Briefcase: Ridiculous | Chinese Briefcase: TO THE MOON",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"contentFolders": ["content/briefcases/charc0al"]
-		},
-		{
-			"name": "Faster throw - Human strength",
-			"tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"contentFolders": ["content/briefcases/realistic"]
-		},
-		{
-			"name": "Faster throw - 47 strength",
-			"tooltip": "Throw briefcases at world class assassin strength. Normal item throw speed, with an amount of knockback that feels like it belongs in vanilla WoA.",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"enabledByDefault": true,
-			"contentFolders": ["content/briefcases/47"]
-		},
-		{
-			"name": "Faster throw - Extreme strength",
-			"tooltip": "Hits just hard enough to send NPCs over Whittleton Creek fences.",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"contentFolders": ["content/briefcases/extreme"]
-		},
-		{
-			"name": "Faster throw - Actually Ridiculous strength",
-			"tooltip": "Throw briefcases at superhuman speed and send NPCs flying.",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"contentFolders": ["content/briefcases/ridiculous"]
-		},
-		{
-			"name": "Faster throw - TO THE MOON",
-			"tooltip": "No one in their right mind would choose this option.",
-			"group": "Briefcase Throw",
-			"type": "select",
-			"contentFolders": ["content/briefcases/moon"]
-		},
-		{
-			"name": "Impact Force | KO Items",
-			"tooltip": "Adds ragdoll impact force to KO items. Each item has it's own impact force based on what feels natural for the items of different weights.",
-			"group": "Impact",
-			"type": "checkbox",
-			"enabledByDefault": true,
-			"contentFolders": ["content/impact/ko"]
-		},
-		{
-			"name": "Impact Force | Lethal Items",
-			"tooltip": "Adds ragdoll impact force to LETHAL items. Each item has it's own impact force based on what feels natural for the items of different weights.",
-			"group": "Impact",
-			"type": "checkbox",
-			"enabledByDefault": true,
-			"contentFolders": ["content/impact/lethal"]
-		},
-		{
-			"name": "Throw HUD | Dot Reticle",
-			"tooltip": "Changes the thrown object reticle into a dot",
-			"group": "Throw",
-			"type": "checkbox",
-			"image": "smf/throw.webp",
-			"enabledByDefault": true,
-			"contentFolders": ["content/throw_target"]
-		},
-		{
-			"name": "Throw HUD | Hide Arc",
-			"tooltip": "Hides the 3D throw arc",
-			"group": "Throw",
-			"type": "checkbox",
-			"image": "smf/throwarc.webp",
-			"enabledByDefault": true,
-			"contentFolders": ["content/throw_arc"]
-		},
-		{
-			"name": "Loadout | Common Throwables",
-			"tooltip": "(Peacock required) Adds some fun common items to the loadout screen including Frying Pan, Propane Flask, Chloroform, Brick, and a few more",
-			"group": "Loadout",
-			"type": "checkbox",
-			"image": "smf/loadout.webp",
-			"enabledByDefault": true,
-			"contentFolders": ["content/unlocks"]
-		},
-		{
-			"name": "ICA Homing Banana",
-			"tooltip": "Just a bit of fun",
-			"group": "Bananer",
-			"type": "checkbox",
-			"contentFolders": ["content/banana"]
-		}
-	]
+  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+  "version": "1.10.0",
+  "updateCheck": "https://github.com/charc0al/HM3_ThrownItemAdjustments/releases/latest/download/updates.json",
+  "id": "Charc0al.ThrownItemAdjustments",
+  "name": "Impact Physics and Lock-on Adjustments",
+  "description": "Adds ragdoll impact to briefcases and thrown items, and options to disable lock-on for grenades, explosives and similar items.",
+  "authors": [
+    "Charc0al"
+  ],
+  "frameworkVersion": "2.33.26",
+  "options": [
+    {
+      "name": "No Lock-on | Grenades & Proximity Items",
+      "tooltip": "Turn off lock-on for throwing grenades and proximity explosives / items, including things like the chloroform flask and the durian.",
+      "group": "main",
+      "type": "checkbox",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/grenades"
+      ]
+    },
+    {
+      "name": "No Lock-on | Remote Explosives & Items",
+      "tooltip": "Turn off lock-on for throwing remote explosives and other remote items like the remote taser",
+      "group": "main",
+      "type": "checkbox",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/remote"
+      ]
+    },
+    {
+      "name": "No changes",
+      "tooltip": "No changes to briefcase throw.",
+      "group": "Briefcase Throw",
+      "type": "select"
+    },
+    {
+      "name": "Faster throw - Charc0al's Recommendation",
+      "tooltip": "Most briefcases: 47 strength | Common (leather, military) briefcases: Human strength | Sieger 300 Briefcase: Extreme | Purple Briefcase: Ridiculous | Chinese Briefcase: TO THE MOON",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "contentFolders": [
+        "content/briefcases/charc0al"
+      ]
+    },
+    {
+      "name": "Faster throw - Human strength",
+      "tooltip": "Throw briefcases at the same speed as other thrown items, hits with more realistic impact force.",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "contentFolders": [
+        "content/briefcases/realistic"
+      ]
+    },
+    {
+      "name": "Faster throw - 47 strength",
+      "tooltip": "Throw briefcases at world class assassin strength. Normal item throw speed, with an amount of knockback that feels like it belongs in vanilla WoA.",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/briefcases/47"
+      ]
+    },
+    {
+      "name": "Faster throw - Extreme strength",
+      "tooltip": "Hits just hard enough to send NPCs over Whittleton Creek fences.",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "contentFolders": [
+        "content/briefcases/extreme"
+      ]
+    },
+    {
+      "name": "Faster throw - Actually Ridiculous strength",
+      "tooltip": "Throw briefcases at superhuman speed and send NPCs flying.",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "contentFolders": [
+        "content/briefcases/ridiculous"
+      ]
+    },
+    {
+      "name": "Faster throw - TO THE MOON",
+      "tooltip": "No one in their right mind would choose this option.",
+      "group": "Briefcase Throw",
+      "type": "select",
+      "contentFolders": [
+        "content/briefcases/moon"
+      ]
+    },
+    {
+      "name": "Impact Force | KO Items",
+      "tooltip": "Adds ragdoll impact force to KO items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+      "group": "Impact",
+      "type": "checkbox",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/impact/ko"
+      ]
+    },
+    {
+      "name": "Impact Force | Lethal Items",
+      "tooltip": "Adds ragdoll impact force to LETHAL items. Each item has it's own impact force based on what feels natural for the items of different weights.",
+      "group": "Impact",
+      "type": "checkbox",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/impact/lethal"
+      ]
+    },
+    {
+      "name": "Throw HUD | Dot Reticle",
+      "tooltip": "Changes the thrown object reticle into a dot",
+      "group": "Throw",
+      "type": "checkbox",
+      "image": "smf/throw.webp",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/throw_target"
+      ]
+    },
+    {
+      "name": "Throw HUD | Hide Arc",
+      "tooltip": "Hides the 3D throw arc",
+      "group": "Throw",
+      "type": "checkbox",
+      "image": "smf/throwarc.webp",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/throw_arc"
+      ]
+    },
+    {
+      "name": "Loadout | Common Throwables",
+      "tooltip": "(Peacock required) Adds some fun common items to the loadout screen including Frying Pan, Propane Flask, Chloroform, Brick, and a few more",
+      "group": "Loadout",
+      "type": "checkbox",
+      "image": "smf/loadout.webp",
+      "enabledByDefault": true,
+      "contentFolders": [
+        "content/unlocks"
+      ]
+    },
+    {
+      "name": "ICA Homing Banana",
+      "tooltip": "Just a bit of fun",
+      "group": "Bananer",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/banana"
+      ]
+    }
+  ]
 }
