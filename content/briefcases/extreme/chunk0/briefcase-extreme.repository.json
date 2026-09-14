@@ -223,5 +223,23 @@
 		"RagdollImpactUpkick": 500,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 100
+	},
+	"2eae400c-a045-40dc-aa7d-c984a574090b": {
+		"CommonName": "(GREENTINI) Container_Briefcase_A",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 0,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 100
+	},
+	"c55d7ede-9071-4afe-bf90-5d770cca674a": {
+		"CommonName": "(SUMMER) Container_Briefcase_A",
+		"ItemImpactForce": 0,
+		"ItemImpactUpkick": 0,
+		"RagdollImpactForce": 500,
+		"RagdollImpactUpkick": 500,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 100
 	}
 }

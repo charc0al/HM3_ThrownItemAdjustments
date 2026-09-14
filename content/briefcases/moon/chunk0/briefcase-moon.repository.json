@@ -273,5 +273,27 @@
 		"RagdollImpactUpkickGlobal": 3000,
 		"ReverseItemThrowRotationDirection": false,
 		"ThrowVelocity": 150
+	},
+	"2eae400c-a045-40dc-aa7d-c984a574090b": {
+		"CommonName": "(GREENTINI) Container_Briefcase_A",
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
+	},
+	"c55d7ede-9071-4afe-bf90-5d770cca674a": {
+		"CommonName": "(SUMMER) Container_Briefcase_A",
+		"OverrideItemThrowRotation": false,
+		"ItemImpactUpkick": 100,
+		"RagdollImpactForce": 5000,
+		"RagdollImpactForceGlobal": 5000,
+		"RagdollImpactUpkick": 3000,
+		"RagdollImpactUpkickGlobal": 3000,
+		"ReverseItemThrowRotationDirection": false,
+		"ThrowVelocity": 150
 	}
 }
