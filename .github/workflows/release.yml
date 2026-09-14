@@ -128,12 +128,6 @@ jobs:
                       `${{ steps.modID.outputs.prop }}` v${{ steps.newVersion.outputs.new-release-version }}, by ${{ join(fromJSON(steps.modAuthors.outputs.prop), ', ') }}. This README was automatically generated from the mod's manifest.
                   write-mode: overwrite
 
-            - name: Format
-              if: ${{ steps.newVersion.outputs.new-release-version }}
-              uses: actionsx/prettier@v2
-              with:
-                  args: --write .
-
             - name: Commit changes
               if: ${{ steps.newVersion.outputs.new-release-version }}
               uses: EndBug/add-and-commit@v9.1.0
