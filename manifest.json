@@ -155,7 +155,7 @@
     },
     {
       "name": "NPC Killboxes",
-      "tooltip": "Adds accident kill zones at selected high ledges, starting with a balcony in Paris.",
+      "tooltip": "Adds accident kill zones at selected ledges in Paris and Sapienza.",
       "group": "Impact",
       "type": "checkbox",
       "enabledByDefault": false,
