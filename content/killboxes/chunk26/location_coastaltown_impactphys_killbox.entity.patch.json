@@ -65,7 +65,7 @@
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 20.0, "y": 9.5, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -724,15 +724,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -126.0,
+									"y": -100.0,
+									"z": 14.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 20.0, "y": 6.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -758,18 +758,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -0.0
+									"z": -44.99999517032684
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -141.0,
+									"y": -122.0,
+									"z": 7.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 28.0, "y": 30.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -795,18 +795,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -0.0
+									"z": -44.99999517032684
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -105.0,
+									"y": -121.0,
+									"z": 8.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 12.0, "y": 4.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -832,18 +832,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -0.0
+									"z": -44.99999517032684
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -104.0,
+									"y": -111.0,
+									"z": 13.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 4.0, "y": 8.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
