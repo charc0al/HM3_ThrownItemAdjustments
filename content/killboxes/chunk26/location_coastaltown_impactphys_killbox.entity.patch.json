@@ -591,13 +591,21 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 12, "y": 0, "z": 20 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 19.99999905482353
+								},
+								"position": {
+									"x": -96.0,
+									"y": -11.0,
+									"z": 13.0
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 10.0, "y": 30.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -620,13 +628,21 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 12, "y": 0, "z": 20 }
+								"rotation": {
+									"x": -4.999985101293035,
+									"y": 8.164210500258126e-6,
+									"z": 11.00001363975773
+								},
+								"position": {
+									"x": -103.0,
+									"y": -44.0,
+									"z": 8.0
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 10.0, "y": 40.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -649,13 +665,21 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 12, "y": 0, "z": 20 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 19.99999905482353
+								},
+								"position": {
+									"x": -96.0,
+									"y": -11.0,
+									"z": 14.0
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 10.0, "y": 20.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
