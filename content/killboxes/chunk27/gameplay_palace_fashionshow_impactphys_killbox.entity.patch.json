@@ -216,13 +216,13 @@
 								"position": {
 									"x": -204.8924560546875,
 									"y": 14.91728687286377,
-									"z": 13.100000381469728
+									"z": 5.600000381469727
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 24.0, "y": 32.0, "z": 0 }
+							"value": { "x": 24.0, "y": 32.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
