@@ -668,18 +668,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": 19.99999905482353
+									"z": -4.9999855265554345
 								},
 								"position": {
-									"x": -96.0,
-									"y": -11.0,
-									"z": 14.0
+									"x": -105.5,
+									"y": -79.0,
+									"z": 8.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 10.0, "y": 20.0, "z": 2.0 }
+							"value": { "x": 6.0, "y": 30.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
