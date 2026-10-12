@@ -789,18 +789,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -0.0
+									"z": 15
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -82.0,
+									"y": -44.0,
+									"z": 4.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 6.0, "y": 15.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -829,15 +829,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": 19.0,
-									"y": -1.0,
-									"z": 18.5
+									"x": -67.0,
+									"y": -37.0,
+									"z": 5.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 20.0, "y": 10.0, "z": 1.5 }
+							"value": { "x": 20.0, "y": 6.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
