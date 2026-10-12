@@ -311,17 +311,25 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": -90 },
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -89.9999965849052
+								},
 								"position": {
-									"x": -262.39246,
-									"y": 14.917287,
-									"z": 13.1
+									"x": -238.3924560546875,
+									"y": 51.91728591918945,
+									"z": 7.100000381469727
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 24, "y": 10, "z": 1.8 }
+							"value": {
+								"x": 5.0,
+								"y": 32.0,
+								"z": 1.7999999523162842
+							}
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
