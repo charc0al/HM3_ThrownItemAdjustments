@@ -223,6 +223,7 @@
 								"cafe383b2b370a2b",
 								"cafefb125dc0525e",
 								"cafecc2b0b2f5526",
+								"cafe81909382473f",
 								"cafe11d2d9040bcb",
 								"cafeb5d8750f37f1",
 								"cafe26f757f84228",
@@ -233,7 +234,14 @@
 								"cafe4037553622f9",
 								"cafe1bae9e386864",
 								"cafe31138cd11a3a",
-								"cafe07e2620cd14a"
+								"cafe07e2620cd14a",
+								"cafe2aed814ea050",
+								"cafe99a97ddf8e26",
+								"cafef7bc96cb8c21",
+								"cafe4aca362448f9",
+								"cafee4de32aafe9a",
+								"cafecb22258d5980",
+								"cafecff2afb44fbd"
 							],
 							"postInit": true
 						}
@@ -959,18 +967,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -44.99999517032684
+									"z": -49.99999868188683
 								},
 								"position": {
-									"x": -104.0,
-									"y": -111.0,
-									"z": 13.5
+									"x": -124.0,
+									"y": -114.0,
+									"z": 31.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 4.0, "y": 8.0, "z": 1.5 }
+							"value": { "x": 4.0, "y": 8.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -996,18 +1004,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -44.99999517032684
+									"z": -10.0
 								},
 								"position": {
-									"x": -104.0,
-									"y": -111.0,
-									"z": 13.5
+									"x": 71.0,
+									"y": -3.0,
+									"z": 30.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 4.0, "y": 8.0, "z": 1.5 }
+							"value": { "x": 8.0, "y": 3.0, "z": 1.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -1033,18 +1041,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -44.99999517032684
+									"z": -0.0
 								},
 								"position": {
-									"x": -104.0,
-									"y": -111.0,
-									"z": 13.5
+									"x": -120.0,
+									"y": -120.0,
+									"z": 26.5
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 4.0, "y": 8.0, "z": 1.5 }
+							"value": { "x": 4.0, "y": 8.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -1073,15 +1081,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": -13.5,
-									"y": -39.0,
+									"x": -32.5,
+									"y": -19.0,
 									"z": 24.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 4.0, "y": 35.0, "z": 2.0 }
+							"value": { "x": 32.0, "y": 6.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -1208,7 +1216,7 @@
 				"cafecff2afb44fbd",
 				{
 					"parent": "f4501a196886eed5",
-					"name": "ImpactPhysKillBox_Balcony4",
+					"name": "ImpactPhysKillBox_RuinsTower3",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -1218,18 +1226,18 @@
 								"rotation": {
 									"x": -0.0,
 									"y": 0.0,
-									"z": -3.9999775690497663
+									"z": -65.9999947191145
 								},
 								"position": {
-									"x": -69.0,
-									"y": -1.0,
-									"z": 14.0
+									"x": -131.5,
+									"y": -119.0,
+									"z": 31.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 50.0, "y": 6.0, "z": 2.0 }
+							"value": { "x": 14.0, "y": 6.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
