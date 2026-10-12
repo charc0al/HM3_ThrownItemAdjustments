@@ -162,13 +162,21 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 16, "y": 0, "z": 20 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -10.00000785033171
+								},
+								"position": {
+									"x": 65.4000015258789,
+									"y": -15.0,
+									"z": 20.0
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 4.0, "y": 20.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -393,13 +401,21 @@
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 12, "y": 0, "z": 20 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -10.00000785033171
+								},
+								"position": {
+									"x": 82.5999984741211,
+									"y": -21.0,
+									"z": 16.0
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 2.0, "y": 4.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
