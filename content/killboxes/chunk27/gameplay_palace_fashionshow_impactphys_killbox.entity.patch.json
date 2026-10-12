@@ -7,14 +7,14 @@
 				"cafe3dbc699e3cf3",
 				{
 					"parent": "50904f8744b83e72",
-					"name": "ImpactPhysKillBox_ParisBalconyVolume",
+					"name": "ImpactPhysKillBox_ParisBalconyVolume1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": -90.0 },
+								"rotation": { "x": 0, "y": 0, "z": -90 },
 								"position": {
 									"x": -262.39246,
 									"y": 14.917287,
@@ -40,7 +40,7 @@
 				"cafe81524d69e472",
 				{
 					"parent": "50904f8744b83e72",
-					"name": "ImpactPhysKillBox_ParisBalconyTrap",
+					"name": "ImpactPhysKillBoxes_Paris",
 					"factory": "[modules:/zitsatrap.class].pc_entitytype",
 					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
 					"properties": {
@@ -51,9 +51,117 @@
 						"m_bUseTimer": { "type": "bool", "value": false },
 						"m_bAccident": { "type": "bool", "value": true },
 						"m_bEnabled": { "type": "bool", "value": true },
+						"m_bKillHitman": {
+							"type": "bool",
+							"value": false
+						},
 						"m_aKillBoxes": {
 							"type": "TArray<SEntityTemplateReference>",
-							"value": ["cafe3dbc699e3cf3"],
+							"value": [
+								"cafe3dbc699e3cf3",
+								"cafe975f7aa02995",
+								"cafee92c1c1768d0",
+								"cafeca32d789d9ac"
+							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe975f7aa02995",
+				{
+					"parent": "50904f8744b83e72",
+					"name": "ImpactPhysKillBox_ParisBalconyVolume2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": -90 },
+								"position": {
+									"x": -252.39246,
+									"y": 14.917287,
+									"z": 13.1
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 24, "y": 10, "z": 1.8 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee92c1c1768d0",
+				{
+					"parent": "50904f8744b83e72",
+					"name": "ImpactPhysKillBox_ParisBalconyVolume3",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": -90 },
+								"position": {
+									"x": -262.39246,
+									"y": 14.917287,
+									"z": 13.1
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 24, "y": 10, "z": 1.8 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeca32d789d9ac",
+				{
+					"parent": "50904f8744b83e72",
+					"name": "ImpactPhysKillBox_AtticFallIndoorVolume",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": -90 },
+								"position": {
+									"x": -262.39246,
+									"y": 14.917287,
+									"z": 13.1
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 24, "y": 10, "z": 1.8 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
 							"postInit": true
 						}
 					}
