@@ -192,7 +192,7 @@
 				"cafe68e5a9a5be73",
 				{
 					"parent": "02ac90c8400fe695",
-					"name": "ImpactPhysKillBox_HawkesBayTrap",
+					"name": "ImpactPhysKillBoxes_AustraliaOrSomething",
 					"factory": "[modules:/zitsatrap.class].pc_entitytype",
 					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
 					"properties": {
