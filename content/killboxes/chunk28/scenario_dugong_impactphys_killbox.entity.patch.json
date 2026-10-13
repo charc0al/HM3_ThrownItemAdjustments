@@ -1,466 +1,439 @@
 {
-  "tempHash": "00D4CB4858E849BE",
-  "tbluHash": "003C5911B9591221",
-  "patch": [
-    {
-      "AddEntity": [
-        "cafe63344ce36b75",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland1",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 0,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe3359a682cc8b",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland2",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 4,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe685e60351147",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland3",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 8,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe98bce903b6ef",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland4",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 12,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5ad9a841881c",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland5",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 16,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe9c5314f06fbe",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland6",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 20,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeee46f1cee4a6",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland7",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 24,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe80518a91c04b",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland8",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 28,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe2b6dd01fbf57",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland9",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 32,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe7ea33a4f16bd",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIsland10",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 36,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe1b2d410d89b0",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_AmbroseIslandTrap",
-          "factory": "[modules:/zitsatrap.class].pc_entitytype",
-          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
-          "properties": {
-            "m_eDeathContext": {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            },
-            "m_bUseTimer": {
-              "type": "bool",
-              "value": false
-            },
-            "m_bAccident": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bEnabled": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bKillHitman": {
-              "type": "bool",
-              "value": false
-            },
-            "m_aKillBoxes": {
-              "type": "TArray<SEntityTemplateReference>",
-              "value": [
-                "cafe63344ce36b75",
-                "cafe3359a682cc8b",
-                "cafe685e60351147",
-                "cafe98bce903b6ef",
-                "cafe5ad9a841881c",
-                "cafe9c5314f06fbe",
-                "cafeee46f1cee4a6",
-                "cafe80518a91c04b",
-                "cafe2b6dd01fbf57",
-                "cafe7ea33a4f16bd"
-              ],
-              "postInit": true
-            }
-          }
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"tempHash": "00D4CB4858E849BE",
+	"tbluHash": "003C5911B9591221",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"909a36a3aec85cde",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": 22.47237710485351
+							},
+							"position": {
+								"x": 67.70590209960938,
+								"y": 110.08619689941406,
+								"z": 6.171770095825195
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe63344ce36b75",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland1_Tower1",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 24.999995068495167
+								},
+								"position": {
+									"x": 64.83891296386719,
+									"y": 102.3000030517578,
+									"z": 14.14882469177246
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 20.0, "y": 8.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe3359a682cc8b",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland2_Tower2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 24.999995068495167
+								},
+								"position": {
+									"x": 69.83891296386719,
+									"y": 117.9000015258789,
+									"z": 14.14882469177246
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 20.0, "y": 8.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe685e60351147",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland3_Tower3",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 114.99999352093168
+								},
+								"position": {
+									"x": 74.83891296386719,
+									"y": 108.3000030517578,
+									"z": 14.14882469177246
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 20.0, "y": 8.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe98bce903b6ef",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland4_Tower4",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 114.99999352093168
+								},
+								"position": {
+									"x": 59.83891296386719,
+									"y": 112.3000030517578,
+									"z": 14.14882469177246
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 20.0, "y": 8.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5ad9a841881c",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland5_BinocsGuy",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 15.000003418783905
+								},
+								"position": {
+									"x": 37.214317321777344,
+									"y": 65.3898696899414,
+									"z": 9.920019149780272
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 8.0, "y": 3.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9c5314f06fbe",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland6_HutWindow",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 24.999995068495167
+								},
+								"position": {
+									"x": 48.63100051879883,
+									"y": 93.24765014648438,
+									"z": 10.03252124786377
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 3.0, "y": 1.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeee46f1cee4a6",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland7_CliffShore",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -96.80363464355467,
+									"y": 280.0586853027344,
+									"z": 11.043041229248049
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2.0, "y": 8.0, "z": 2.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe80518a91c04b",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland8_CliffShore2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -32.00000027843785
+								},
+								"position": {
+									"x": -49.24700164794922,
+									"y": 304.3235168457031,
+									"z": 13.5
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 20.0, "y": 4.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2b6dd01fbf57",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland9_Ruins1",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -46.38357162475586,
+									"y": 258.70001220703125,
+									"z": 18.30725479125977
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 26.0, "y": 2.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7ea33a4f16bd",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_AmbroseIsland10_Ruins2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -59.05478286743164,
+									"y": 263.63067626953125,
+									"z": 18.510053634643555
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2.0, "y": 6.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1b2d410d89b0",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBoxes_Am_Bros_Eye_Land",
+					"factory": "[modules:/zitsatrap.class].pc_entitytype",
+					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+					"properties": {
+						"m_eDeathContext": {
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						},
+						"m_bUseTimer": { "type": "bool", "value": false },
+						"m_bAccident": { "type": "bool", "value": true },
+						"m_bEnabled": { "type": "bool", "value": true },
+						"m_bKillHitman": {
+							"type": "bool",
+							"value": false
+						},
+						"m_aKillBoxes": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": [
+								"cafe63344ce36b75",
+								"cafe3359a682cc8b",
+								"cafe685e60351147",
+								"cafe98bce903b6ef",
+								"cafe5ad9a841881c",
+								"cafe9c5314f06fbe",
+								"cafeee46f1cee4a6",
+								"cafe80518a91c04b",
+								"cafe2b6dd01fbf57",
+								"cafe7ea33a4f16bd"
+							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
