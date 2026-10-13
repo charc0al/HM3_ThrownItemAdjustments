@@ -86,15 +86,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": -4.0,
-									"y": 20.0,
-									"z": 9.0
+									"x": -26.0,
+									"y": -33.0,
+									"z": 7.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2.0, "y": 8.0, "z": 2.0 }
+							"value": { "x": 6.0, "y": 24.0, "z": 2.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -443,7 +443,7 @@
 				"cafe153c924c4580",
 				{
 					"parent": "4fc5a04422a2729c",
-					"name": "ImpactPhysKillBox_School3",
+					"name": "ImpactPhysKillBox_School3_EmbassyStairs",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -456,15 +456,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": -4.0,
-									"y": 20.0,
-									"z": 9.0
+									"x": 4.5,
+									"y": -157.5,
+									"z": 1.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2.0, "y": 8.0, "z": 2.0 }
+							"value": { "x": 3.0, "y": 3.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -480,7 +480,7 @@
 				"cafe1b1ffbbf93e4",
 				{
 					"parent": "4fc5a04422a2729c",
-					"name": "ImpactPhysKillBox_School4",
+					"name": "ImpactPhysKillBox_School4_EmbassyLobby2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -493,15 +493,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": -4.0,
-									"y": 20.0,
-									"z": 9.0
+									"x": 0.0,
+									"y": -148.0,
+									"z": 6.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2.0, "y": 8.0, "z": 2.0 }
+							"value": { "x": 26.0, "y": 2.5, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -517,7 +517,7 @@
 				"cafe2824d1c68a2b",
 				{
 					"parent": "4fc5a04422a2729c",
-					"name": "ImpactPhysKillBox_Misc2",
+					"name": "ImpactPhysKillBox_Misc2_Embassy1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -530,15 +530,15 @@
 									"z": -0.0
 								},
 								"position": {
-									"x": -4.0,
-									"y": 20.0,
-									"z": 9.0
+									"x": 0.0,
+									"y": -128.0,
+									"z": 6.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2.0, "y": 8.0, "z": 2.0 }
+							"value": { "x": 20.0, "y": 20.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
