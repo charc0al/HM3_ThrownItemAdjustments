@@ -22,13 +22,13 @@
 								"position": {
 									"x": 28.0,
 									"y": 77.0,
-									"z": 16.5
+									"z": 16.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 40.0, "y": 18.0, "z": 1.0 }
+							"value": { "x": 40.0, "y": 18.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -65,7 +65,7 @@
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 8.0, "y": 22.5, "z": 0.5 }
+							"value": { "x": 7.5, "y": 22.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
