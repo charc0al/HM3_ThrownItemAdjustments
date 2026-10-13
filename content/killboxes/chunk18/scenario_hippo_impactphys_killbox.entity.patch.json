@@ -1,0 +1,466 @@
+{
+  "tempHash": "00887DDFD8656D90",
+  "tbluHash": "00FA83E7FF633C2E",
+  "patch": [
+    {
+      "AddEntity": [
+        "cafec8f3b6122cd2",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna1",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 0,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafefad76b641ec8",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna2",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 4,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafecb3ec9e35ced",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna3",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 8,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe308bea6d6eaa",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna4",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 12,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe3e40ff4ec057",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna5",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 16,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafed1fe30e16415",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna6",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 20,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe7dab452658f1",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna7",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 24,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe4bb23805ef5d",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna8",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 28,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafef4b892ab43df",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna9",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 32,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafeb08b91a40abd",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortuna10",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 36,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe97d9a8026359",
+        {
+          "parent": "08b840d57f96278c",
+          "name": "ImpactPhysKillBox_SantaFortunaTrap",
+          "factory": "[modules:/zitsatrap.class].pc_entitytype",
+          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+          "properties": {
+            "m_eDeathContext": {
+              "type": "EDeathContext",
+              "value": "eDC_ACCIDENT"
+            },
+            "m_bUseTimer": {
+              "type": "bool",
+              "value": false
+            },
+            "m_bAccident": {
+              "type": "bool",
+              "value": true
+            },
+            "m_bEnabled": {
+              "type": "bool",
+              "value": true
+            },
+            "m_bKillHitman": {
+              "type": "bool",
+              "value": false
+            },
+            "m_aKillBoxes": {
+              "type": "TArray<SEntityTemplateReference>",
+              "value": [
+                "cafec8f3b6122cd2",
+                "cafefad76b641ec8",
+                "cafecb3ec9e35ced",
+                "cafe308bea6d6eaa",
+                "cafe3e40ff4ec057",
+                "cafed1fe30e16415",
+                "cafe7dab452658f1",
+                "cafe4bb23805ef5d",
+                "cafef4b892ab43df",
+                "cafeb08b91a40abd"
+              ],
+              "postInit": true
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "patchVersion": 6
+}

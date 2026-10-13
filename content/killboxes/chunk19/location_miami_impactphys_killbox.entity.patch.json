@@ -7,7 +7,7 @@
 				"cafe9c32dd98fa26",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_Miami1_Balcony",
+					"name": "ImpactPhysKillBox_Miami_KronsBalcony",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -44,7 +44,7 @@
 				"cafe0a253db4f565",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_Miami2_Balcony",
+					"name": "ImpactPhysKillBox_Miami_KronsBalcony2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -81,7 +81,7 @@
 				"cafe294a827488f8",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_Miami3_BalconyHigh",
+					"name": "ImpactPhysKillBox_Miami_KronsBalconyHigh",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -118,7 +118,7 @@
 				"cafeb2b341faacf9",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_Miami4_KronsIndoor",
+					"name": "ImpactPhysKillBox_Miami_KronsIndoor",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -155,7 +155,7 @@
 				"cafef1749338c5c7",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX5_Knox2",
+					"name": "ImpactPhysKillBox_Miami_Knox2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -214,12 +214,17 @@
 								"cafe0a253db4f565",
 								"cafe294a827488f8",
 								"cafeb2b341faacf9",
-								"cafef1749338c5c7",
+								"cafea5121c6e3747",
 								"cafe27a406786f43",
+								"cafe357e857a6d3e",
 								"cafe4528f9608227",
 								"cafea2b2383d7e15",
 								"cafeee3c549d07f1",
 								"cafef1749338c5c7",
+								"cafe8c8cd0177381",
+								"cafe68d6a9617b33",
+								"cafe1204a6803de9",
+								"cafeb87a4c15f78b",
 								"cafefaa49b8d201a"
 							],
 							"postInit": true
@@ -233,7 +238,7 @@
 				"cafea5121c6e3747",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_Miami5_KronsIndoor2",
+					"name": "ImpactPhysKillBox_Miami_KronsIndoor2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -270,7 +275,7 @@
 				"cafe4528f9608227",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX2_THWACK",
+					"name": "ImpactPhysKillBox_Miami_THWACK",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -307,7 +312,7 @@
 				"cafeee3c549d07f1",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX4_Knox",
+					"name": "ImpactPhysKillBox_Miami_Knox",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -344,7 +349,7 @@
 				"cafefaa49b8d201a",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX9_Stands2",
+					"name": "ImpactPhysKillBox_Miami_Stands2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -381,7 +386,7 @@
 				"cafe27a406786f43",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX1_Racetrack",
+					"name": "ImpactPhysKillBox_Miami_Racetrack",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -418,7 +423,7 @@
 				"cafea2b2383d7e15",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX3_Kowoon",
+					"name": "ImpactPhysKillBox_Miami_Kowoon",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -455,7 +460,7 @@
 				"cafe1204a6803de9",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX8_Alley2",
+					"name": "ImpactPhysKillBox_Miami_Alley2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -496,7 +501,7 @@
 				"cafe68d6a9617b33",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX7_Alley",
+					"name": "ImpactPhysKillBox_Miami_Alley",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -533,7 +538,7 @@
 				"cafe8c8cd0177381",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX6_PinkRoof",
+					"name": "ImpactPhysKillBox_Miami_PinkRoof",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -570,7 +575,7 @@
 				"cafeb87a4c15f78b",
 				{
 					"parent": "2e90eb768c63a946",
-					"name": "ImpactPhysKillBox_MiamiX9_Stands",
+					"name": "ImpactPhysKillBox_Miami_Stands",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -592,6 +597,43 @@
 						"m_vGlobalSize": {
 							"type": "SVector3",
 							"value": { "x": 30.0, "y": 1.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe357e857a6d3e",
+				{
+					"parent": "2e90eb768c63a946",
+					"name": "ImpactPhysKillBox_Miami_Racetrack2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -119.5,
+									"y": 120.0,
+									"z": 6.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 22.5, "y": 40.0, "z": 1.0 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
