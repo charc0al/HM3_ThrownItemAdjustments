@@ -3,6 +3,50 @@
 	"tbluHash": "00D86D84723DECC6",
 	"patch": [
 		{
+			"SubEntityOperation": [
+				"e6f75935e5be49e0",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -153.924659444129,
+								"y": -29.19924422754451,
+								"z": -94.69095206644492
+							},
+							"position": {
+								"x": 118.4988021850586,
+								"y": -138.5489044189453,
+								"z": -5.884822845458984
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e6f75935e5be49e0",
+				{
+					"SetPropertyValue": {
+						"property_name": "Add_02_V2",
+						"value": -22.11000061035156
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"772b07201aa60c16",
+				{
+					"SetPropertyValue": {
+						"property_name": "Add_02_V2",
+						"value": -22.11000061035156
+					}
+				}
+			]
+		},
+		{
 			"AddEntity": [
 				"cafe45a0eeaa0a04",
 				{
@@ -44,7 +88,7 @@
 				"cafe91ce99920607",
 				{
 					"parent": "192dd7a72f95e6d1",
-					"name": "ImpactPhysKillBox_Bangkok2_Front",
+					"name": "ImpactPhysKillBox_Bangkok_Front",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -214,8 +258,203 @@
 								"cafe91ce99920607",
 								"cafe9bfa074ee330",
 								"cafe28b0d372c99b",
-								"cafe3956fac0eb1d"
+								"cafe3956fac0eb1d",
+								"cafede47b7bbdb5a",
+								"cafec1fa08e82a61",
+								"cafe1e56d5841e98",
+								"cafee3fc49dbe080",
+								"cafe1eb327f6cc00"
 							],
+							"postInit": true
+						},
+						"m_fLethalVelocity": {
+							"type": "float32",
+							"value": 5.0
+						},
+						"m_fDuration": { "type": "float32", "value": 10.0 }
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee3fc49dbe080",
+				{
+					"parent": "192dd7a72f95e6d1",
+					"name": "ImpactPhysKillBox_Bangkok_Window2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 85.0,
+									"y": -91.0,
+									"z": 63.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 6.0, "y": 3.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1eb327f6cc00",
+				{
+					"parent": "192dd7a72f95e6d1",
+					"name": "ImpactPhysKillBox_Bangkok_Rocks",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 32.0,
+									"y": -68.0,
+									"z": 44.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 4.0, "y": 10.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafede47b7bbdb5a",
+				{
+					"parent": "192dd7a72f95e6d1",
+					"name": "ImpactPhysKillBox_Bangkok_BalconyHigh",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 112.0,
+									"y": -92.0,
+									"z": 64.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 9.0, "y": 5.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec1fa08e82a61",
+				{
+					"parent": "192dd7a72f95e6d1",
+					"name": "ImpactPhysKillBox_Bangkok_BalconyLow",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 114.0,
+									"y": -92.0,
+									"z": 54.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 16.0, "y": 5.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1e56d5841e98",
+				{
+					"parent": "192dd7a72f95e6d1",
+					"name": "ImpactPhysKillBox_Bangkok_Window1",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 62.0,
+									"y": -73.0,
+									"z": 58.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 3.0, "y": 4.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
 							"postInit": true
 						}
 					}
