@@ -155,7 +155,7 @@
 				"cafe0743b1979726",
 				{
 					"parent": "1267a0bb844d0544",
-					"name": "ImpactPhysKillBox_Colorado5_BedroomWindow",
+					"name": "ImpactPhysKillBox_Colorado5_BedroomWindow2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -168,15 +168,15 @@
 									"z": 48.00000351426694
 								},
 								"position": {
-									"x": -72.0,
-									"y": 124.0,
-									"z": 18.5
+									"x": -67.0,
+									"y": 120.5,
+									"z": 19
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 14.0, "y": 6.0, "z": 0.5 }
+							"value": { "x": 3.0, "y": 1.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -214,8 +214,46 @@
 								"cafe6d6e1141ccb2",
 								"cafebee2db2af65b",
 								"cafefa59bfc6533a",
+								"cafe9f393907fe29",
 								"cafe0743b1979726"
 							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9f393907fe29",
+				{
+					"parent": "1267a0bb844d0544",
+					"name": "ImpactPhysKillBox_Colorado5_BedroomWindow",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 48.00000351426694
+								},
+								"position": {
+									"x": -77.0,
+									"y": 125.5,
+									"z": 18.5
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2.0, "y": 6.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
 							"postInit": true
 						}
 					}
