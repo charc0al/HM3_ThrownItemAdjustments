@@ -1,0 +1,256 @@
+{
+  "tempHash": "0055E9DD469C9BAD",
+  "tbluHash": "0002868917AFE6E0",
+  "patch": [
+    {
+      "AddEntity": [
+        "cafe04dee30d86b6",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBay1",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 0,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafea925b4b1f985",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBay2",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 4,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe84c2b515cd76",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBay3",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 8,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe8eb14c686ff3",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBay4",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 12,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe6fccc15bc20c",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBay5",
+          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+          "properties": {
+            "m_mTransform": {
+              "type": "SMatrix43",
+              "value": {
+                "rotation": {
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 16,
+                  "y": 0,
+                  "z": -1000
+                }
+              }
+            },
+            "m_vGlobalSize": {
+              "type": "SVector3",
+              "value": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+              }
+            },
+            "m_eidParent": {
+              "type": "SEntityTemplateReference",
+              "value": "fffffffffffffffe",
+              "postInit": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "AddEntity": [
+        "cafe68e5a9a5be73",
+        {
+          "parent": "02ac90c8400fe695",
+          "name": "ImpactPhysKillBox_HawkesBayTrap",
+          "factory": "[modules:/zitsatrap.class].pc_entitytype",
+          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+          "properties": {
+            "m_eDeathContext": {
+              "type": "EDeathContext",
+              "value": "eDC_ACCIDENT"
+            },
+            "m_bUseTimer": {
+              "type": "bool",
+              "value": false
+            },
+            "m_bAccident": {
+              "type": "bool",
+              "value": true
+            },
+            "m_bEnabled": {
+              "type": "bool",
+              "value": true
+            },
+            "m_bKillHitman": {
+              "type": "bool",
+              "value": false
+            },
+            "m_aKillBoxes": {
+              "type": "TArray<SEntityTemplateReference>",
+              "value": [
+                "cafe04dee30d86b6",
+                "cafea925b4b1f985",
+                "cafe84c2b515cd76",
+                "cafe8eb14c686ff3",
+                "cafe6fccc15bc20c"
+              ],
+              "postInit": true
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "patchVersion": 6
+}
