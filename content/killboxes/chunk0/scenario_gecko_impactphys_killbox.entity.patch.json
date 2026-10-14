@@ -1,886 +1,717 @@
 {
-  "tempHash": "00FF13BC71FBD8DF",
-  "tbluHash": "006DE61CDCE4C98D",
-  "patch": [
-    {
-      "AddEntity": [
-        "cafe1aec07e45392",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai1",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 0,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5fc9a5dbfb01",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai2",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 4,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafedcbc49c1fc47",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai3",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 8,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafebba0141127f9",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai4",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 12,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe994fdf1ec94a",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai5",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 16,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafef10666ecddd8",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai6",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 20,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe9acc3bf4f024",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai7",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 24,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe60d7dc979c27",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai8",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 28,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeec93714ce2ee",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai9",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 32,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafed8575e97d1cf",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai10",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 36,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafee42b24a79254",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai11",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 40,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeb20c0392f7c4",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai12",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 44,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafed4276a29b738",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai13",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 48,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe61dafa723058",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai14",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 52,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe523e882057ea",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai15",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 56,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5043570e5e74",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai16",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 60,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe352fef7feaa8",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai17",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 64,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe6af3586cd8b9",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai18",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 68,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe92da75225f40",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai19",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 72,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafed8a70c8a4512",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Dubai20",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 76,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe41ef4cf9ec29",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_DubaiTrap",
-          "factory": "[modules:/zitsatrap.class].pc_entitytype",
-          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
-          "properties": {
-            "m_eDeathContext": {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            },
-            "m_bUseTimer": {
-              "type": "bool",
-              "value": false
-            },
-            "m_bAccident": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bEnabled": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bKillHitman": {
-              "type": "bool",
-              "value": false
-            },
-            "m_aKillBoxes": {
-              "type": "TArray<SEntityTemplateReference>",
-              "value": [
-                "cafe1aec07e45392",
-                "cafe5fc9a5dbfb01",
-                "cafedcbc49c1fc47",
-                "cafebba0141127f9",
-                "cafe994fdf1ec94a",
-                "cafef10666ecddd8",
-                "cafe9acc3bf4f024",
-                "cafe60d7dc979c27",
-                "cafeec93714ce2ee",
-                "cafed8575e97d1cf",
-                "cafee42b24a79254",
-                "cafeb20c0392f7c4",
-                "cafed4276a29b738",
-                "cafe61dafa723058",
-                "cafe523e882057ea",
-                "cafe5043570e5e74",
-                "cafe352fef7feaa8",
-                "cafe6af3586cd8b9",
-                "cafe92da75225f40",
-                "cafed8a70c8a4512"
-              ],
-              "postInit": true
-            }
-          }
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"tempHash": "00FF13BC71FBD8DF",
+	"tbluHash": "006DE61CDCE4C98D",
+	"patch": [
+		{
+			"AddEntity": [
+				"cafe1aec07e45392",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai1_LobbyRight",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 12.478754043579102,
+									"y": -9.201284408569336,
+									"z": 39.5
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 10.0, "y": 20.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5fc9a5dbfb01",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai2_LobbyLeft",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -10.521245956420898,
+									"y": -8.201284408569336,
+									"z": 39.5
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 6.0, "y": 16.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafedcbc49c1fc47",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai3_LobbyMiddle",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 0.0,
+									"y": -13.775389671325684,
+									"z": 33.0057258605957
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 15.0, "y": 15.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafebba0141127f9",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai4_LobbyHighBalcony",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 0.0,
+									"y": -11.775389671325684,
+									"z": 50.0057258605957
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 15.0, "y": 8.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe994fdf1ec94a",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai5_LobbyHighRight",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 9.5,
+									"y": -5.589240074157715,
+									"z": 52.021034240722656
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 4.0, "y": 18.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef10666ecddd8",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai6_LobbyHighLeft",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -9.0,
+									"y": 2.410759925842285,
+									"z": 52.021034240722656
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 4.0, "y": 32.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9acc3bf4f024",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai7_LobbyHighLeft2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -28.0,
+									"y": 24.41075897216797,
+									"z": 52.021034240722656
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 26.0, "y": 4.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe60d7dc979c27",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai8_SecurityRoof",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 25.385725021362305,
+									"y": -2.5999999046325684,
+									"z": 49.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 4.0, "y": 1.5, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeec93714ce2ee",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai9_HeliPad",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 44.99999517032684
+								},
+								"position": {
+									"x": 33.46290588378906,
+									"y": -53.194129943847656,
+									"z": 51.963714599609375
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 13.0, "y": 4.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed8575e97d1cf",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai10_LadderHeliPad",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 21.96287727355957,
+									"y": -48.92267990112305,
+									"z": 58.963714599609375
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 4.0, "y": 3.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee42b24a79254",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai11",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 40, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb20c0392f7c4",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai12",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 44, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed4276a29b738",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai13",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 48, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe61dafa723058",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai14",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 52, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe523e882057ea",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai15",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 56, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5043570e5e74",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai16",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 60, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe352fef7feaa8",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai17",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 64, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6af3586cd8b9",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai18",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 68, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe92da75225f40",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai19",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 72, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed8a70c8a4512",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Dubai20",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 76, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe41ef4cf9ec29",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_DubaiTrap",
+					"factory": "[modules:/zitsatrap.class].pc_entitytype",
+					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+					"properties": {
+						"m_eDeathContext": {
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						},
+						"m_bUseTimer": { "type": "bool", "value": false },
+						"m_bAccident": { "type": "bool", "value": true },
+						"m_bEnabled": { "type": "bool", "value": true },
+						"m_bKillHitman": {
+							"type": "bool",
+							"value": false
+						},
+						"m_aKillBoxes": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": [
+								"cafe1aec07e45392",
+								"cafe5fc9a5dbfb01",
+								"cafedcbc49c1fc47",
+								"cafebba0141127f9",
+								"cafe994fdf1ec94a",
+								"cafef10666ecddd8",
+								"cafe9acc3bf4f024",
+								"cafe60d7dc979c27",
+								"cafeec93714ce2ee",
+								"cafed8575e97d1cf",
+								"cafee42b24a79254",
+								"cafeb20c0392f7c4",
+								"cafed4276a29b738",
+								"cafe61dafa723058",
+								"cafe523e882057ea",
+								"cafe5043570e5e74",
+								"cafe352fef7feaa8",
+								"cafe6af3586cd8b9",
+								"cafe92da75225f40",
+								"cafed8a70c8a4512"
+							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
