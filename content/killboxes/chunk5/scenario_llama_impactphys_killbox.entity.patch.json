@@ -1,1306 +1,1083 @@
 {
-  "tempHash": "00803F02CE901E3A",
-  "tbluHash": "00AF0EBB71375913",
-  "patch": [
-    {
-      "AddEntity": [
-        "cafef6c39a6ccef9",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza1",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 0,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe359671d09c15",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza2",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 4,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe43c9063b3496",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza3",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 8,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe421c675326de",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza4",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 12,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe04c6dc212f34",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza5",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 16,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5e0a2eb3161a",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza6",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 20,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe49c479783777",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza7",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 24,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe330d58bbbc99",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza8",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 28,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe8a4dfee0b8f6",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza9",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 32,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe7ce2500f7331",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza10",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 36,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafed152eeca7c56",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza11",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 40,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe53d5d67ee53c",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza12",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 44,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafea11fb43233d8",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza13",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 48,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafea7aee9fec5f3",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza14",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 52,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe713f241e9a55",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza15",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 56,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe9dd9aa97bfa5",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza16",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 60,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5e2fd0493b1a",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza17",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 64,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe79083b112660",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza18",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 68,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafef9bc8df0fac0",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza19",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 72,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeca1bc191e51a",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza20",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 76,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafef4151c0258e1",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza21",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 80,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeffe2c965c199",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza22",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 84,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe771b60b87e9c",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza23",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 88,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe2a7f88706f9b",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza24",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 92,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe6a34f48f47d1",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza25",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 96,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafec0070f397a5c",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza26",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 100,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeb8a163334f8b",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza27",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 104,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe2d95b9798166",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza28",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 108,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeba8cb2689a56",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza29",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 112,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeb0248c63f678",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_Mendoza30",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 116,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeb47b7f2570a7",
-        {
-          "parent": "d46f54dafc6d6458",
-          "name": "ImpactPhysKillBox_MendozaTrap",
-          "factory": "[modules:/zitsatrap.class].pc_entitytype",
-          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
-          "properties": {
-            "m_eDeathContext": {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            },
-            "m_bUseTimer": {
-              "type": "bool",
-              "value": false
-            },
-            "m_bAccident": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bEnabled": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bKillHitman": {
-              "type": "bool",
-              "value": false
-            },
-            "m_aKillBoxes": {
-              "type": "TArray<SEntityTemplateReference>",
-              "value": [
-                "cafef6c39a6ccef9",
-                "cafe359671d09c15",
-                "cafe43c9063b3496",
-                "cafe421c675326de",
-                "cafe04c6dc212f34",
-                "cafe5e0a2eb3161a",
-                "cafe49c479783777",
-                "cafe330d58bbbc99",
-                "cafe8a4dfee0b8f6",
-                "cafe7ce2500f7331",
-                "cafed152eeca7c56",
-                "cafe53d5d67ee53c",
-                "cafea11fb43233d8",
-                "cafea7aee9fec5f3",
-                "cafe713f241e9a55",
-                "cafe9dd9aa97bfa5",
-                "cafe5e2fd0493b1a",
-                "cafe79083b112660",
-                "cafef9bc8df0fac0",
-                "cafeca1bc191e51a",
-                "cafef4151c0258e1",
-                "cafeffe2c965c199",
-                "cafe771b60b87e9c",
-                "cafe2a7f88706f9b",
-                "cafe6a34f48f47d1",
-                "cafec0070f397a5c",
-                "cafeb8a163334f8b",
-                "cafe2d95b9798166",
-                "cafeba8cb2689a56",
-                "cafeb0248c63f678"
-              ],
-              "postInit": true
-            }
-          }
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"tempHash": "00803F02CE901E3A",
+	"tbluHash": "00AF0EBB71375913",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"9c52a7dea3e0fa03",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": 152.39322761022274
+							},
+							"position": {
+								"x": -0.35645294189453125,
+								"y": -28.32969665527344,
+								"z": 1.4564619064331057
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef6c39a6ccef9",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza1_StartingPlat",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -141.77761840820312,
+									"y": -114.9497528076172,
+									"z": 3.657939910888672
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 3.700000047683716,
+								"y": 6.800000190734863,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe359671d09c15",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza2_Overlook",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -122.42339324951172,
+									"y": -121.48645782470705,
+									"z": -11.767000198364258
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 1.7000000476837158,
+								"y": 10.5,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe43c9063b3496",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza3_BigLedgeLower1",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -19.99999905482353
+								},
+								"position": {
+									"x": -76.36061096191406,
+									"y": -81.4997329711914,
+									"z": -11.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 29.600000381469727,
+								"y": 51.79999923706055,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe421c675326de",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza4_BigLedgeLower2",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -60
+								},
+								"position": {
+									"x": -56.36061096191406,
+									"y": -106.4997329711914,
+									"z": -11.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 29.600000381469727,
+								"y": 51.79999923706055,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe04c6dc212f34",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza5_BigLedgeLower3",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -19.99999905482353
+								},
+								"position": {
+									"x": -11.360610961914064,
+									"y": -145.49972534179688,
+									"z": -11.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 29.600000381469727,
+								"y": 39.20000076293945,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5e0a2eb3161a",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza6_BigLedgeLower4",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -15.000003418783905
+								},
+								"position": {
+									"x": -2.3606109619140625,
+									"y": -193.49972534179688,
+									"z": -11.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 11.800000190734863,
+								"y": 46.20000076293945,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe49c479783777",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza7_BigLedgeLowerBellend",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 14.639389038085938,
+									"y": -208.49972534179688,
+									"z": -20.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 37.0, "y": 17.5, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe330d58bbbc99",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza8_BigLedgeLowerBACK",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 38.63938903808594,
+									"y": -162.49972534179688,
+									"z": -20.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 16.0,
+								"y": 80.80000305175781,
+								"z": 1.0
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8a4dfee0b8f6",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza9_BigLedgeBackROCKS",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 39.63938903808594,
+									"y": -88.49972534179688,
+									"z": -9.399948120117188
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 16.0,
+								"y": 48.70000076293945,
+								"z": 1.0
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7ce2500f7331",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza10",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 36, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed152eeca7c56",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza11",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 40, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe53d5d67ee53c",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza12",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 44, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea11fb43233d8",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza13",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 48, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea7aee9fec5f3",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza14",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 52, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe713f241e9a55",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza15",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 56, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9dd9aa97bfa5",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza16",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 60, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5e2fd0493b1a",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza17",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 64, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe79083b112660",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza18",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 68, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef9bc8df0fac0",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza19",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 72, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeca1bc191e51a",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza20",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 76, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef4151c0258e1",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza21",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 80, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeffe2c965c199",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza22",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 84, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe771b60b87e9c",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza23",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 88, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2a7f88706f9b",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza24",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 92, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6a34f48f47d1",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza25",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 96, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec0070f397a5c",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza26",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": {
+									"x": 100,
+									"y": 0,
+									"z": -1000
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb8a163334f8b",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza27",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": {
+									"x": 104,
+									"y": 0,
+									"z": -1000
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2d95b9798166",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza28",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": {
+									"x": 108,
+									"y": 0,
+									"z": -1000
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeba8cb2689a56",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza29",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": {
+									"x": 112,
+									"y": 0,
+									"z": -1000
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb0248c63f678",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBox_Mendoza30",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": {
+									"x": 116,
+									"y": 0,
+									"z": -1000
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeb47b7f2570a7",
+				{
+					"parent": "d46f54dafc6d6458",
+					"name": "ImpactPhysKillBoxes_TooMuchWine",
+					"factory": "[modules:/zitsatrap.class].pc_entitytype",
+					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+					"properties": {
+						"m_eDeathContext": {
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						},
+						"m_bUseTimer": { "type": "bool", "value": false },
+						"m_bAccident": { "type": "bool", "value": true },
+						"m_bEnabled": { "type": "bool", "value": true },
+						"m_bKillHitman": {
+							"type": "bool",
+							"value": false
+						},
+						"m_aKillBoxes": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": [
+								"cafef6c39a6ccef9",
+								"cafe359671d09c15",
+								"cafe43c9063b3496",
+								"cafe421c675326de",
+								"cafe04c6dc212f34",
+								"cafe5e0a2eb3161a",
+								"cafe49c479783777",
+								"cafe330d58bbbc99",
+								"cafe8a4dfee0b8f6",
+								"cafe7ce2500f7331",
+								"cafed152eeca7c56",
+								"cafe53d5d67ee53c",
+								"cafea11fb43233d8",
+								"cafea7aee9fec5f3",
+								"cafe713f241e9a55",
+								"cafe9dd9aa97bfa5",
+								"cafe5e2fd0493b1a",
+								"cafe79083b112660",
+								"cafef9bc8df0fac0",
+								"cafeca1bc191e51a",
+								"cafef4151c0258e1",
+								"cafeffe2c965c199",
+								"cafe771b60b87e9c",
+								"cafe2a7f88706f9b",
+								"cafe6a34f48f47d1",
+								"cafec0070f397a5c",
+								"cafeb8a163334f8b",
+								"cafe2d95b9798166",
+								"cafeba8cb2689a56",
+								"cafeb0248c63f678"
+							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
