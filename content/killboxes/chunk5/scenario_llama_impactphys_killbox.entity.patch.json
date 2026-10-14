@@ -15,9 +15,9 @@
 								"z": 152.39322761022274
 							},
 							"position": {
-								"x": -0.35645294189453125,
-								"y": -28.32969665527344,
-								"z": 1.4564619064331057
+								"x": -130.39242553710938,
+								"y": -146.06649780273438,
+								"z": -11.903450012207031
 							}
 						}
 					}
@@ -394,20 +394,32 @@
 				"cafe7ce2500f7331",
 				{
 					"parent": "d46f54dafc6d6458",
-					"name": "ImpactPhysKillBox_Mendoza10",
+					"name": "ImpactPhysKillBox_Mendoza10_UpperBackLedge",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 36, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 31.413000106811523,
+									"y": -105.87620544433594,
+									"z": -2.201972007751465
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": {
+								"x": 2.200000047683716,
+								"y": 104.9000015258789,
+								"z": 0.5
+							}
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -423,20 +435,32 @@
 				"cafed152eeca7c56",
 				{
 					"parent": "d46f54dafc6d6458",
-					"name": "ImpactPhysKillBox_Mendoza11",
+					"name": "ImpactPhysKillBox_Mendoza11_UpperBellend",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 40, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -30.00000340285065
+								},
+								"position": {
+									"x": 0.5862274169921875,
+									"y": -134.84500122070312,
+									"z": -2.3780622482299805
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": {
+								"x": 34.900001525878906,
+								"y": 92.1999969482422,
+								"z": 0.5
+							}
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -452,20 +476,32 @@
 				"cafe53d5d67ee53c",
 				{
 					"parent": "d46f54dafc6d6458",
-					"name": "ImpactPhysKillBox_Mendoza12",
+					"name": "ImpactPhysKillBox_Mendoza12_BigLedgeHighDancefloor",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 44, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 18.000005954567108
+								},
+								"position": {
+									"x": -38.41377258300781,
+									"y": -87.84500122070312,
+									"z": -2.3780622482299805
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": {
+								"x": 32.400001525878906,
+								"y": 43.70000076293945,
+								"z": 0.5
+							}
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -1023,7 +1059,7 @@
 				"cafeb47b7f2570a7",
 				{
 					"parent": "d46f54dafc6d6458",
-					"name": "ImpactPhysKillBoxes_TooMuchWine",
+					"name": "ImpactPhysKillBoxes_Mendozer",
 					"factory": "[modules:/zitsatrap.class].pc_entitytype",
 					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
 					"properties": {
