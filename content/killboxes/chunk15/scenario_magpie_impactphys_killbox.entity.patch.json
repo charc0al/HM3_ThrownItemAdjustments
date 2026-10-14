@@ -11,9 +11,9 @@
 						"value": {
 							"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
 							"position": {
-								"x": -37.81675720214844,
-								"y": 41.25483322143555,
-								"z": 32.02957534790039
+								"x": -23.3378963470459,
+								"y": -18.516672134399418,
+								"z": 28.006298065185547
 							}
 						}
 					}
@@ -25,7 +25,7 @@
 				"cafed4c80effaed1",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail1_Church1",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Church1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -62,7 +62,7 @@
 				"cafe7da8be285f21",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail2_ChurchHole",
+					"name": "ImpactPhysKillBox_IsleOfSgail_ChurchHole",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -99,7 +99,7 @@
 				"cafe8e77368737b2",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail3_ConstantBalcony",
+					"name": "ImpactPhysKillBox_IsleOfSgail_ConstantBalcony",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -136,7 +136,7 @@
 				"cafeb06921c6d273",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail4_Keep1",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Keep1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -173,7 +173,7 @@
 				"cafe802b10d5974e",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail5_Keep2",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Keep2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -210,7 +210,7 @@
 				"cafe196bc3cacb42",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail6_KeepWindow",
+					"name": "ImpactPhysKillBox_IsleOfSgail_KeepWindow",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -247,7 +247,7 @@
 				"cafe10fab1a3f4a6",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail7_KeepWindowEdgeCombo",
+					"name": "ImpactPhysKillBox_IsleOfSgail_KeepWindowEdgeCombo",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -284,7 +284,7 @@
 				"cafe0e5473ed506d",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail8_Penthouse1",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Penthouse1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -321,7 +321,7 @@
 				"cafeb577b17c912e",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail9_Penthouse2",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Penthouse2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -358,7 +358,7 @@
 				"cafedac95f00d53d",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail10_CourtyardCombo",
+					"name": "ImpactPhysKillBox_IsleOfSgail_CourtyardCombo",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -395,7 +395,7 @@
 				"cafe427ce395d9c5",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail11",
+					"name": "ImpactPhysKillBox_IsleOfSgail_SecurityPipe",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -432,7 +432,7 @@
 				"cafe34f86d679bc0",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail12_WindowMultiCatch",
+					"name": "ImpactPhysKillBox_IsleOfSgail_WindowMultiCatch",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -469,7 +469,7 @@
 				"cafe3a2a233b3b56",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail13_ArchwayLedge",
+					"name": "ImpactPhysKillBox_IsleOfSgail_ArchwayLedge",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -483,14 +483,14 @@
 								},
 								"position": {
 									"x": 82.55156707763672,
-									"y": 70.29379272460938,
+									"y": 73.29379272460938,
 									"z": 18.0
 								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 10.0, "y": 12.0, "z": 0.5 }
+							"value": { "x": 10.0, "y": 18.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -506,7 +506,7 @@
 				"cafe5cb19fbf17f1",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail14_Archway2",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Archway2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -543,7 +543,7 @@
 				"cafe48a94db4317f",
 				{
 					"parent": "43f207cd9b092c61",
-					"name": "ImpactPhysKillBox_IsleOfSgail15_LadderDeath",
+					"name": "ImpactPhysKillBox_IsleOfSgail_LadderDeath",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
@@ -612,8 +612,236 @@
 								"cafe34f86d679bc0",
 								"cafe3a2a233b3b56",
 								"cafe5cb19fbf17f1",
-								"cafe48a94db4317f"
+								"cafe48a94db4317f",
+								"cafe2d2eef12f949",
+								"cafe9fbe73c59c5d",
+								"cafe6186cfba936d",
+								"cafea06325c3c1d7",
+								"cafecf2edb0c1736",
+								"cafed8dfced9722c"
 							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6186cfba936d",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Stage",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 44.492645263671875,
+									"y": 73.61580657958984,
+									"z": 19.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 10.0, "y": 14.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed8dfced9722c",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_RockPath",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 44.99999517032684
+								},
+								"position": {
+									"x": 57.1460075378418,
+									"y": 15.59292984008789,
+									"z": 12.85256290435791
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 5.0, "y": 14.0, "z": 1.0 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9fbe73c59c5d",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Walkway",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 71.67195892333984,
+									"y": 61.525917053222656,
+									"z": 24.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 24.0, "y": 18.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe2d2eef12f949",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_Rocks1",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 77.3163070678711,
+									"y": 86.8248519897461,
+									"z": 12.097101211547852
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 10.0, "y": 10.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafecf2edb0c1736",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_WineHouse",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 45.93782043457031,
+									"y": 100.03288269042967,
+									"z": 23.999998092651367
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 12.0, "y": 12.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafea06325c3c1d7",
+				{
+					"parent": "43f207cd9b092c61",
+					"name": "ImpactPhysKillBox_IsleOfSgail_RedStairs",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 59.451866149902344,
+									"y": 49.22258377075195,
+									"z": 18.0
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 8.0, "y": 15.0, "z": 0.5 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
 							"postInit": true
 						}
 					}
