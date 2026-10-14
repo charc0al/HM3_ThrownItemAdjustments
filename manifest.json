@@ -155,7 +155,7 @@
     },
     {
       "name": "NPC Killboxes",
-      "tooltip": "Adds accident kill zones at selected ledges.",
+      "tooltip": "Makes it possible to get accident kills with thrown KO items by adding kill boxes to every map in the game! I added over 200 killboxes across all maps, pretty much every ledge you can knock someone off can be fatal with a briefcase or other thrown item! (Briefcases work best)",
       "group": "Impact",
       "type": "checkbox",
       "enabledByDefault": false,
