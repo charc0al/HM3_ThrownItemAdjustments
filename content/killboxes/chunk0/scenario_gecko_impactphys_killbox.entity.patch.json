@@ -3,6 +3,28 @@
 	"tbluHash": "006DE61CDCE4C98D",
 	"patch": [
 		{
+			"SubEntityOperation": [
+				"11b420629d3ee72e",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": {
+								"x": -0.0,
+								"y": 0.0,
+								"z": -19.99999905482353
+							},
+							"position": {
+								"x": -18.902254104614254,
+								"y": -21.17007064819336,
+								"z": 66.23985290527344
+							}
+						}
+					}
+				}
+			]
+		},
+		{
 			"AddEntity": [
 				"cafe1aec07e45392",
 				{
@@ -673,20 +695,28 @@
 				"cafe92da75225f40",
 				{
 					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Dubai19",
+					"name": "ImpactPhysKillBox_Dubai19_PenthouseInterior",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 72, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -0.9932527542114258,
+									"y": -51.74717712402344,
+									"z": 67.19999694824219
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 32.0, "y": 6.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -702,20 +732,28 @@
 				"cafed8a70c8a4512",
 				{
 					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Dubai20",
+					"name": "ImpactPhysKillBox_Dubai20_MedLedge",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 76, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -19.752779006958008,
+									"y": 12.0,
+									"z": 44.97301483154297
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 12.0, "y": 2.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
