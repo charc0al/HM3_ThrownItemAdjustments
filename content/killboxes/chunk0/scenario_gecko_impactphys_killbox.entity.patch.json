@@ -562,20 +562,28 @@
 				"cafe5043570e5e74",
 				{
 					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Dubai16",
+					"name": "ImpactPhysKillBox_Dubai16_UpperLedge2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 60, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 89.9999965849052
+								},
+								"position": {
+									"x": 36.907230377197266,
+									"y": 4.021030426025391,
+									"z": 52.5
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 30.0, "y": 4.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -591,20 +599,28 @@
 				"cafe352fef7feaa8",
 				{
 					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Dubai17",
+					"name": "ImpactPhysKillBox_Dubai17_PenthouseLedge1",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 64, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": 19.99999905482353
+								},
+								"position": {
+									"x": 18.097745895385746,
+									"y": -18.17007064819336,
+									"z": 66.23985290527344
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 40.0, "y": 12.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
@@ -620,20 +636,28 @@
 				"cafe6af3586cd8b9",
 				{
 					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Dubai18",
+					"name": "ImpactPhysKillBox_Dubai18_PenthouseLedge2",
 					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
 					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
 					"properties": {
 						"m_mTransform": {
 							"type": "SMatrix43",
 							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 68, "y": 0, "z": -1000 }
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -19.99999905482353
+								},
+								"position": {
+									"x": -18.902254104614254,
+									"y": -21.17007064819336,
+									"z": 66.23985290527344
+								}
 							}
 						},
 						"m_vGlobalSize": {
 							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
+							"value": { "x": 40.0, "y": 12.0, "z": 0.5 }
 						},
 						"m_eidParent": {
 							"type": "SEntityTemplateReference",
