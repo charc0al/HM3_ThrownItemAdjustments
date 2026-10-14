@@ -912,93 +912,6 @@
 		},
 		{
 			"AddEntity": [
-				"cafef113fa8b48de",
-				{
-					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Berlin23",
-					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-					"properties": {
-						"m_mTransform": {
-							"type": "SMatrix43",
-							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 88, "y": 0, "z": -1000 }
-							}
-						},
-						"m_vGlobalSize": {
-							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
-						},
-						"m_eidParent": {
-							"type": "SEntityTemplateReference",
-							"value": "fffffffffffffffe",
-							"postInit": true
-						}
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
-				"cafec394875b2a06",
-				{
-					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Berlin24",
-					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-					"properties": {
-						"m_mTransform": {
-							"type": "SMatrix43",
-							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 92, "y": 0, "z": -1000 }
-							}
-						},
-						"m_vGlobalSize": {
-							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
-						},
-						"m_eidParent": {
-							"type": "SEntityTemplateReference",
-							"value": "fffffffffffffffe",
-							"postInit": true
-						}
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
-				"cafe5480ecb0ae13",
-				{
-					"parent": "92d5f7cd5d84ad4c",
-					"name": "ImpactPhysKillBox_Berlin25",
-					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-					"properties": {
-						"m_mTransform": {
-							"type": "SMatrix43",
-							"value": {
-								"rotation": { "x": 0, "y": 0, "z": 0 },
-								"position": { "x": 96, "y": 0, "z": -1000 }
-							}
-						},
-						"m_vGlobalSize": {
-							"type": "SVector3",
-							"value": { "x": 2, "y": 2, "z": 2 }
-						},
-						"m_eidParent": {
-							"type": "SEntityTemplateReference",
-							"value": "fffffffffffffffe",
-							"postInit": true
-						}
-					}
-				}
-			]
-		},
-		{
-			"AddEntity": [
 				"cafe7a875b29f3da",
 				{
 					"parent": "92d5f7cd5d84ad4c",
@@ -1041,10 +954,7 @@
 								"cafeb14085fb62e9",
 								"cafef011889b527c",
 								"cafea66b2c5b326b",
-								"cafed061d3a45d87",
-								"cafef113fa8b48de",
-								"cafec394875b2a06",
-								"cafe5480ecb0ae13"
+								"cafed061d3a45d87"
 							],
 							"postInit": true
 						}

@@ -1,1096 +1,865 @@
 {
-  "tempHash": "0005C60C0B3C7977",
-  "tbluHash": "002E69256922F8F6",
-  "patch": [
-    {
-      "AddEntity": [
-        "cafe4be54cd28e6e",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing1",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 0,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe200c38200614",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing2",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 4,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe453b784765d1",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing3",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 8,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe0c39753e6250",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing4",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 12,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe6fb310fd651e",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing5",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 16,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe37fcc8be23f1",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing6",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 20,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafee7624e001946",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing7",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 24,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafef76c75ec8461",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing8",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 28,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe1117fd53f93e",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing9",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 32,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe7723087077e4",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing10",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 36,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe6a0d4510eaf4",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing11",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 40,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe7cd450675b85",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing12",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 44,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe8adc5799fd55",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing13",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 48,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe95f9865c7856",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing14",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 52,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe786350b8dd10",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing15",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 56,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe5ae2b5989dec",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing16",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 60,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe892cc076f1ad",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing17",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 64,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe9204474c98c5",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing18",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 68,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafec6771ae50b27",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing19",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 72,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe707f7bde393c",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing20",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 76,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe55b47973899d",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing21",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 80,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe83c6e3c5847e",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing22",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 84,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe62c677fd9ded",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing23",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 88,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafeec9805e7a97f",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing24",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 92,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe56fe1004e3bc",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_Chongqing25",
-          "factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
-          "blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
-          "properties": {
-            "m_mTransform": {
-              "type": "SMatrix43",
-              "value": {
-                "rotation": {
-                  "x": 0,
-                  "y": 0,
-                  "z": 0
-                },
-                "position": {
-                  "x": 96,
-                  "y": 0,
-                  "z": -1000
-                }
-              }
-            },
-            "m_vGlobalSize": {
-              "type": "SVector3",
-              "value": {
-                "x": 2,
-                "y": 2,
-                "z": 2
-              }
-            },
-            "m_eidParent": {
-              "type": "SEntityTemplateReference",
-              "value": "fffffffffffffffe",
-              "postInit": true
-            }
-          }
-        }
-      ]
-    },
-    {
-      "AddEntity": [
-        "cafe658d6f7bacce",
-        {
-          "parent": "92d5f7cd5d84ad4c",
-          "name": "ImpactPhysKillBox_ChongqingTrap",
-          "factory": "[modules:/zitsatrap.class].pc_entitytype",
-          "blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
-          "properties": {
-            "m_eDeathContext": {
-              "type": "EDeathContext",
-              "value": "eDC_ACCIDENT"
-            },
-            "m_bUseTimer": {
-              "type": "bool",
-              "value": false
-            },
-            "m_bAccident": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bEnabled": {
-              "type": "bool",
-              "value": true
-            },
-            "m_bKillHitman": {
-              "type": "bool",
-              "value": false
-            },
-            "m_aKillBoxes": {
-              "type": "TArray<SEntityTemplateReference>",
-              "value": [
-                "cafe4be54cd28e6e",
-                "cafe200c38200614",
-                "cafe453b784765d1",
-                "cafe0c39753e6250",
-                "cafe6fb310fd651e",
-                "cafe37fcc8be23f1",
-                "cafee7624e001946",
-                "cafef76c75ec8461",
-                "cafe1117fd53f93e",
-                "cafe7723087077e4",
-                "cafe6a0d4510eaf4",
-                "cafe7cd450675b85",
-                "cafe8adc5799fd55",
-                "cafe95f9865c7856",
-                "cafe786350b8dd10",
-                "cafe5ae2b5989dec",
-                "cafe892cc076f1ad",
-                "cafe9204474c98c5",
-                "cafec6771ae50b27",
-                "cafe707f7bde393c",
-                "cafe55b47973899d",
-                "cafe83c6e3c5847e",
-                "cafe62c677fd9ded",
-                "cafeec9805e7a97f",
-                "cafe56fe1004e3bc"
-              ],
-              "postInit": true
-            }
-          }
-        }
-      ]
-    }
-  ],
-  "patchVersion": 6
+	"tempHash": "0005C60C0B3C7977",
+	"tbluHash": "002E69256922F8F6",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"11b420629d3ee72e",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_mTransform",
+						"value": {
+							"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+							"position": {
+								"x": -129.3036651611328,
+								"y": 77.62329864501953,
+								"z": 93.21660614013672
+							}
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4be54cd28e6e",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing1_Vents",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -65.043212890625,
+									"y": 10.638801574707031,
+									"z": 103.8222885131836
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 10.399999618530272,
+								"y": 23.0,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe200c38200614",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing2_HoboFall",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -129.3036651611328,
+									"y": 77.62329864501953,
+									"z": 93.21660614013672
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 12.0,
+								"y": 25.399999618530273,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe453b784765d1",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing3_HoboStairs",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -120.11361694335938,
+									"y": 88.18287658691406,
+									"z": 96.06775665283205
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 13.0,
+								"y": 3.299999952316284,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe0c39753e6250",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing4_ApartmentStairs",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -133.2696075439453,
+									"y": 105.16940307617188,
+									"z": 97.10871124267578
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 10.399999618530272,
+								"y": 27.399999618530273,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6fb310fd651e",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing5_StairGapLedge",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -91.12835693359376,
+									"y": 98.88748168945312,
+									"z": 100.5
+								}
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": {
+								"x": 21.899999618530273,
+								"y": 2.299999952316284,
+								"z": 0.5
+							}
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe37fcc8be23f1",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing6",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 20, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee7624e001946",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing7",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 24, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafef76c75ec8461",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing8",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 28, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1117fd53f93e",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing9",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 32, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7723087077e4",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing10",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 36, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6a0d4510eaf4",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing11",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 40, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7cd450675b85",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing12",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 44, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe8adc5799fd55",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing13",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 48, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe95f9865c7856",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing14",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 52, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe786350b8dd10",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing15",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 56, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe5ae2b5989dec",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing16",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 60, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe892cc076f1ad",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing17",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 64, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe9204474c98c5",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing18",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 68, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec6771ae50b27",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing19",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 72, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe707f7bde393c",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing20",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 76, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe55b47973899d",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing21",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 80, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe83c6e3c5847e",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing22",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 84, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe62c677fd9ded",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing23",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 88, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafeec9805e7a97f",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing24",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 92, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe56fe1004e3bc",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_Chongqing25",
+					"factory": "[modules:/zboxvolumeentity.class].pc_entitytype",
+					"blueprint": "[modules:/zboxvolumeentity.class].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": { "x": 0, "y": 0, "z": 0 },
+								"position": { "x": 96, "y": 0, "z": -1000 }
+							}
+						},
+						"m_vGlobalSize": {
+							"type": "SVector3",
+							"value": { "x": 2, "y": 2, "z": 2 }
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe658d6f7bacce",
+				{
+					"parent": "92d5f7cd5d84ad4c",
+					"name": "ImpactPhysKillBox_ChongqingTrap",
+					"factory": "[modules:/zitsatrap.class].pc_entitytype",
+					"blueprint": "[modules:/zitsatrap.class].pc_entityblueprint",
+					"properties": {
+						"m_eDeathContext": {
+							"type": "EDeathContext",
+							"value": "eDC_ACCIDENT"
+						},
+						"m_bUseTimer": { "type": "bool", "value": false },
+						"m_bAccident": { "type": "bool", "value": true },
+						"m_bEnabled": { "type": "bool", "value": true },
+						"m_bKillHitman": {
+							"type": "bool",
+							"value": false
+						},
+						"m_aKillBoxes": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": [
+								"cafe4be54cd28e6e",
+								"cafe200c38200614",
+								"cafe453b784765d1",
+								"cafe0c39753e6250",
+								"cafe6fb310fd651e",
+								"cafe37fcc8be23f1",
+								"cafee7624e001946",
+								"cafef76c75ec8461",
+								"cafe1117fd53f93e",
+								"cafe7723087077e4",
+								"cafe6a0d4510eaf4",
+								"cafe7cd450675b85",
+								"cafe8adc5799fd55",
+								"cafe95f9865c7856",
+								"cafe786350b8dd10",
+								"cafe5ae2b5989dec",
+								"cafe892cc076f1ad",
+								"cafe9204474c98c5",
+								"cafec6771ae50b27",
+								"cafe707f7bde393c",
+								"cafe55b47973899d",
+								"cafe83c6e3c5847e",
+								"cafe62c677fd9ded",
+								"cafeec9805e7a97f",
+								"cafe56fe1004e3bc"
+							],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
 }
