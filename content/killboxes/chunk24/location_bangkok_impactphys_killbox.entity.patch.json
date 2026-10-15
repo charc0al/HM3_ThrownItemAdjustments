@@ -3,50 +3,6 @@
 	"tbluHash": "00D86D84723DECC6",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"e6f75935e5be49e0",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_mTransform",
-						"value": {
-							"rotation": {
-								"x": -153.924659444129,
-								"y": -29.19924422754451,
-								"z": -94.69095206644492
-							},
-							"position": {
-								"x": 118.4988021850586,
-								"y": -138.5489044189453,
-								"z": -5.884822845458984
-							}
-						}
-					}
-				}
-			]
-		},
-		{
-			"SubEntityOperation": [
-				"e6f75935e5be49e0",
-				{
-					"SetPropertyValue": {
-						"property_name": "Add_02_V2",
-						"value": -22.11000061035156
-					}
-				}
-			]
-		},
-		{
-			"SubEntityOperation": [
-				"772b07201aa60c16",
-				{
-					"SetPropertyValue": {
-						"property_name": "Add_02_V2",
-						"value": -22.11000061035156
-					}
-				}
-			]
-		},
-		{
 			"AddEntity": [
 				"cafe45a0eeaa0a04",
 				{

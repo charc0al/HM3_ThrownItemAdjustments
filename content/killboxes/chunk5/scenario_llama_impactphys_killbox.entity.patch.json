@@ -3,28 +3,6 @@
 	"tbluHash": "00AF0EBB71375913",
 	"patch": [
 		{
-			"SubEntityOperation": [
-				"9c52a7dea3e0fa03",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_mTransform",
-						"value": {
-							"rotation": {
-								"x": -0.0,
-								"y": 0.0,
-								"z": 152.39322761022274
-							},
-							"position": {
-								"x": -130.39242553710938,
-								"y": -146.06649780273438,
-								"z": -11.903450012207031
-							}
-						}
-					}
-				}
-			]
-		},
-		{
 			"AddEntity": [
 				"cafef6c39a6ccef9",
 				{
