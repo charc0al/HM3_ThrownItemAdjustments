@@ -5,4 +5,4 @@ Adds ragdoll impact to briefcases and thrown items, and options to disable lock-
 
 ---
 
-`Charc0al.ThrownItemAdjustments` v1.11.0, by Charc0al. This README was automatically generated from the mod's manifest.
+`Charc0al.ThrownItemAdjustments` v1.11.1, by Charc0al. This README was automatically generated from the mod's manifest.
