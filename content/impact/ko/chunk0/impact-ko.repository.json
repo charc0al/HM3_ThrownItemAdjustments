@@ -510,11 +510,11 @@
 		"ItemImpactUpkick": 2
 	},
 	"06f5a374-306b-4b79-b611-50c710fdb5c1": {
-		"CommonName": "Melee_Kali_Stick!",
+		"CommonName": "Melee_Kali_Stick",
 		"RagdollImpactForce": 100
 	},
 	"32243e45-9d17-412e-9b6a-53df25b3add3": {
-		"CommonName": "Melee_Pretzel!",
+		"CommonName": "Melee_Pretzel",
 		"RagdollImpactForce": 50
 	},
 	"7b25ebd9-3993-4be5-88d4-e9b308498be7": {
@@ -528,5 +528,17 @@
 	"bdc60c80-6c65-4cae-8ac0-24374a8512b7": {
 		"CommonName": "(Pomada) Boombox Distraction",
 		"RagdollImpactForce": 200.0
-	}
+	},
+	"265d6d4c-b423-49b7-88dc-56cd2408d86f": {
+		"CommonName": "(SHAMROCK) Gadget_Streamer_Board_A",
+        "RagdollImpactForce": 50
+    },
+    "69d7fc78-8c5a-4792-bb71-69252cbb9544": {
+        "CommonName": "(Shamrock) Melee_Game_Controller_A",
+        "RagdollImpactForce": 60
+    },
+    "b219b039-9da3-49ca-8366-3ba59f5c3685": {
+        "CommonName": "Melee_Hammer",
+        "RagdollImpactForce": 120
+    }
 }
